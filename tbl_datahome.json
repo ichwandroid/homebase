@@ -1,0 +1,4580 @@
+[
+  {
+    "NIS": "1831",
+    "NAMA": "Adam Haidar Ar-Rizky",
+    "ID_KELAS": "1A",
+    "NAMA_KELAS": "MASJID RAYA BAITURRAHMAN",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1835",
+    "NAMA": "Adreena Zaynalesha Distira",
+    "ID_KELAS": "1A",
+    "NAMA_KELAS": "MASJID RAYA BAITURRAHMAN",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1836",
+    "NAMA": "Affan Abrar Rajendra",
+    "ID_KELAS": "1A",
+    "NAMA_KELAS": "MASJID RAYA BAITURRAHMAN",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1837",
+    "NAMA": "Afiqa Ajwa Maulidya",
+    "ID_KELAS": "1A",
+    "NAMA_KELAS": "MASJID RAYA BAITURRAHMAN",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1843",
+    "NAMA": "Aisha Azzahra Riszaldi",
+    "ID_KELAS": "1A",
+    "NAMA_KELAS": "MASJID RAYA BAITURRAHMAN",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1848",
+    "NAMA": "Alifiandra Sachio Mahardika",
+    "ID_KELAS": "1A",
+    "NAMA_KELAS": "MASJID RAYA BAITURRAHMAN",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1849",
+    "NAMA": "Almahyra Isnuna Primadi",
+    "ID_KELAS": "1A",
+    "NAMA_KELAS": "MASJID RAYA BAITURRAHMAN",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1852",
+    "NAMA": "Alula Charice Shanum",
+    "ID_KELAS": "1A",
+    "NAMA_KELAS": "MASJID RAYA BAITURRAHMAN",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1865",
+    "NAMA": "Barmastya Ruyi Imawan",
+    "ID_KELAS": "1A",
+    "NAMA_KELAS": "MASJID RAYA BAITURRAHMAN",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1870",
+    "NAMA": "El Zafran Tjahya Priyambodo",
+    "ID_KELAS": "1A",
+    "NAMA_KELAS": "MASJID RAYA BAITURRAHMAN",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1874",
+    "NAMA": "Fadhlurrahman Fairuz Salman",
+    "ID_KELAS": "1A",
+    "NAMA_KELAS": "MASJID RAYA BAITURRAHMAN",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1879",
+    "NAMA": "Fatimah Nur Izzati",
+    "ID_KELAS": "1A",
+    "NAMA_KELAS": "MASJID RAYA BAITURRAHMAN",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1882",
+    "NAMA": "Gerda Parama Wisesa Cahyono",
+    "ID_KELAS": "1A",
+    "NAMA_KELAS": "MASJID RAYA BAITURRAHMAN",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1886",
+    "NAMA": "Hasan Musthofa Sanyoto",
+    "ID_KELAS": "1A",
+    "NAMA_KELAS": "MASJID RAYA BAITURRAHMAN",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1887",
+    "NAMA": "Ibrahim Mahesh Winoto",
+    "ID_KELAS": "1A",
+    "NAMA_KELAS": "MASJID RAYA BAITURRAHMAN",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1890",
+    "NAMA": "Kaivandra Rezqiano Pratama",
+    "ID_KELAS": "1A",
+    "NAMA_KELAS": "MASJID RAYA BAITURRAHMAN",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1895",
+    "NAMA": "Kevin Haidar Naraindra",
+    "ID_KELAS": "1A",
+    "NAMA_KELAS": "MASJID RAYA BAITURRAHMAN",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1898",
+    "NAMA": "Kinan Mikhayla Arsyla",
+    "ID_KELAS": "1A",
+    "NAMA_KELAS": "MASJID RAYA BAITURRAHMAN",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1900",
+    "NAMA": "Latifah Khoir Rumi Rohiman",
+    "ID_KELAS": "1A",
+    "NAMA_KELAS": "MASJID RAYA BAITURRAHMAN",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "2000",
+    "NAMA": "M. Fabian Abiyasta Mumtaz",
+    "ID_KELAS": "1A",
+    "NAMA_KELAS": "MASJID RAYA BAITURRAHMAN ",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1906",
+    "NAMA": "Muhammad Alfa Rizqy Putra Agung",
+    "ID_KELAS": "1A",
+    "NAMA_KELAS": "MASJID RAYA BAITURRAHMAN",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1912",
+    "NAMA": "Muhammad Ibrahim Nabil Al Habibie",
+    "ID_KELAS": "1A",
+    "NAMA_KELAS": "MASJID RAYA BAITURRAHMAN",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1917",
+    "NAMA": "Muhammad Safaraz Rayyan Ardianto",
+    "ID_KELAS": "1A",
+    "NAMA_KELAS": "MASJID RAYA BAITURRAHMAN",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1928",
+    "NAMA": "Putri Khayla Sylvana Firli",
+    "ID_KELAS": "1A",
+    "NAMA_KELAS": "MASJID RAYA BAITURRAHMAN",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1931",
+    "NAMA": "Rafandra Dzaka Pranadipta",
+    "ID_KELAS": "1A",
+    "NAMA_KELAS": "MASJID RAYA BAITURRAHMAN",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1936",
+    "NAMA": "Retno Ayu Purbaningrum Titis Pramana",
+    "ID_KELAS": "1A",
+    "NAMA_KELAS": "MASJID RAYA BAITURRAHMAN",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1937",
+    "NAMA": "Rhanayya Callista Putri",
+    "ID_KELAS": "1A",
+    "NAMA_KELAS": "MASJID RAYA BAITURRAHMAN",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1941",
+    "NAMA": "Zea Athaya Adzkiya Oktiawan",
+    "ID_KELAS": "1A",
+    "NAMA_KELAS": "MASJID RAYA BAITURRAHMAN",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1942",
+    "NAMA": "Zinan Maulana Rayvolta",
+    "ID_KELAS": "1A",
+    "NAMA_KELAS": "MASJID RAYA BAITURRAHMAN",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1832",
+    "NAMA": "Adeeva Aalinarrahman",
+    "ID_KELAS": "1B",
+    "NAMA_KELAS": "MASJID RAYA AL MASHUN",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1839",
+    "NAMA": "Ahda Ikmaluddiin Mu'Izz",
+    "ID_KELAS": "1B",
+    "NAMA_KELAS": "MASJID RAYA AL MASHUN",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1847",
+    "NAMA": "Alfatih Kian Kanindra",
+    "ID_KELAS": "1B",
+    "NAMA_KELAS": "MASJID RAYA AL MASHUN",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1851",
+    "NAMA": "Alula Arabella Sudibyo",
+    "ID_KELAS": "1B",
+    "NAMA_KELAS": "MASJID RAYA AL MASHUN",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1853",
+    "NAMA": "Andhara Az Zahra",
+    "ID_KELAS": "1B",
+    "NAMA_KELAS": "MASJID RAYA AL MASHUN",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1854",
+    "NAMA": "Arsenio Ravandra Nugraha",
+    "ID_KELAS": "1B",
+    "NAMA_KELAS": "MASJID RAYA AL MASHUN",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1855",
+    "NAMA": "Arsenio Sukma Faeyza",
+    "ID_KELAS": "1B",
+    "NAMA_KELAS": "MASJID RAYA AL MASHUN",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1858",
+    "NAMA": "Aryanta Rasendria",
+    "ID_KELAS": "1B",
+    "NAMA_KELAS": "MASJID RAYA AL MASHUN",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1867",
+    "NAMA": "Cut Lashira Syafazea",
+    "ID_KELAS": "1B",
+    "NAMA_KELAS": "MASJID RAYA AL MASHUN",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1869",
+    "NAMA": "El Ningrat Putra Bumi",
+    "ID_KELAS": "1B",
+    "NAMA_KELAS": "MASJID RAYA AL MASHUN",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1883",
+    "NAMA": "Gwen Edgar Kayosahl El Khalief",
+    "ID_KELAS": "1B",
+    "NAMA_KELAS": "MASJID RAYA AL MASHUN",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1894",
+    "NAMA": "Kenar Daegal Johan",
+    "ID_KELAS": "1B",
+    "NAMA_KELAS": "MASJID RAYA AL MASHUN",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1896",
+    "NAMA": "Khalfani Rifan Zamzami",
+    "ID_KELAS": "1B",
+    "NAMA_KELAS": "MASJID RAYA AL MASHUN",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1901",
+    "NAMA": "Mikhayla Avicenna Caliefa Aznii",
+    "ID_KELAS": "1B",
+    "NAMA_KELAS": "MASJID RAYA AL MASHUN",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1904",
+    "NAMA": "Muhamad Raffa Narya Ramadhan",
+    "ID_KELAS": "1B",
+    "NAMA_KELAS": "MASJID RAYA AL MASHUN",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1905",
+    "NAMA": "Muhammad Al Zhafran Nirwana Arkananta",
+    "ID_KELAS": "1B",
+    "NAMA_KELAS": "MASJID RAYA AL MASHUN",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1907",
+    "NAMA": "Muhammad Dzu Alfiqar Arnou Erdogan",
+    "ID_KELAS": "1B",
+    "NAMA_KELAS": "MASJID RAYA AL MASHUN",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1910",
+    "NAMA": "Muhammad Haidar Alkhalifi",
+    "ID_KELAS": "1B",
+    "NAMA_KELAS": "MASJID RAYA AL MASHUN",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1913",
+    "NAMA": "Muhammad Naufal Al Gibran",
+    "ID_KELAS": "1B",
+    "NAMA_KELAS": "MASJID RAYA AL MASHUN",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1914",
+    "NAMA": "Muhammad Qaishar Fikry",
+    "ID_KELAS": "1B",
+    "NAMA_KELAS": "MASJID RAYA AL MASHUN",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1916",
+    "NAMA": "Muhammad Raka Athalla",
+    "ID_KELAS": "1B",
+    "NAMA_KELAS": "MASJID RAYA AL MASHUN",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1921",
+    "NAMA": "Muhammad Zhian Rafaeyza Wahid",
+    "ID_KELAS": "1B",
+    "NAMA_KELAS": "MASJID RAYA AL MASHUN",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1922",
+    "NAMA": "Nabila Myesha Shakila",
+    "ID_KELAS": "1B",
+    "NAMA_KELAS": "MASJID RAYA AL MASHUN",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1923",
+    "NAMA": "Nadwa Elshanum Abidah",
+    "ID_KELAS": "1B",
+    "NAMA_KELAS": "MASJID RAYA AL MASHUN",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1924",
+    "NAMA": "Nadya Hasna Puteri",
+    "ID_KELAS": "1B",
+    "NAMA_KELAS": "MASJID RAYA AL MASHUN",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1925",
+    "NAMA": "Naqia Sakhiya Zaha",
+    "ID_KELAS": "1B",
+    "NAMA_KELAS": "MASJID RAYA AL MASHUN",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1929",
+    "NAMA": "Queensha Aishwarya Kharisma",
+    "ID_KELAS": "1B",
+    "NAMA_KELAS": "MASJID RAYA AL MASHUN",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1933",
+    "NAMA": "Raisya Sheza Adreena",
+    "ID_KELAS": "1B",
+    "NAMA_KELAS": "MASJID RAYA AL MASHUN",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1833",
+    "NAMA": "Adelia Cevira Kusumahadi",
+    "ID_KELAS": "1C",
+    "NAMA_KELAS": "MASJID SULTAN RIAU PEYENGAT",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1834",
+    "NAMA": "Adelio Khrisna Sakti",
+    "ID_KELAS": "1C",
+    "NAMA_KELAS": "MASJID SULTAN RIAU PEYENGAT",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1838",
+    "NAMA": "Agha Adzriel Fauzi",
+    "ID_KELAS": "1C",
+    "NAMA_KELAS": "MASJID SULTAN RIAU PEYENGAT",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1840",
+    "NAMA": "Ahmad Dharma Avicenna",
+    "ID_KELAS": "1C",
+    "NAMA_KELAS": "MASJID SULTAN RIAU PEYENGAT",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1846",
+    "NAMA": "Alesha Zahra Ratifa Duski",
+    "ID_KELAS": "1C",
+    "NAMA_KELAS": "MASJID SULTAN RIAU PEYENGAT",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1850",
+    "NAMA": "Altaf Mahesa Bimasakti",
+    "ID_KELAS": "1C",
+    "NAMA_KELAS": "MASJID SULTAN RIAU PEYENGAT",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1856",
+    "NAMA": "Arsyaka Fardan Zakki",
+    "ID_KELAS": "1C",
+    "NAMA_KELAS": "MASJID SULTAN RIAU PEYENGAT",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1857",
+    "NAMA": "Arsyila Kirana Shanum",
+    "ID_KELAS": "1C",
+    "NAMA_KELAS": "MASJID SULTAN RIAU PEYENGAT",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1860",
+    "NAMA": "Arzion Seano Zenechka",
+    "ID_KELAS": "1C",
+    "NAMA_KELAS": "MASJID SULTAN RIAU PEYENGAT",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1864",
+    "NAMA": "Bahiyya Naila Naja",
+    "ID_KELAS": "1C",
+    "NAMA_KELAS": "MASJID SULTAN RIAU PEYENGAT",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1872",
+    "NAMA": "Endzo Maliq Pangastiting Nalar",
+    "ID_KELAS": "1C",
+    "NAMA_KELAS": "MASJID SULTAN RIAU PEYENGAT",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1873",
+    "NAMA": "Ezio Abiwara Setyawijaya",
+    "ID_KELAS": "1C",
+    "NAMA_KELAS": "MASJID SULTAN RIAU PEYENGAT",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1878",
+    "NAMA": "Fathiyya Mysha Aleena Fardanah",
+    "ID_KELAS": "1C",
+    "NAMA_KELAS": "MASJID SULTAN RIAU PEYENGAT",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1880",
+    "NAMA": "Ganaya Arcia Rakhsandrina Kurniawan",
+    "ID_KELAS": "1C",
+    "NAMA_KELAS": "MASJID SULTAN RIAU PEYENGAT",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1885",
+    "NAMA": "Halwa Goeh Capillary",
+    "ID_KELAS": "1C",
+    "NAMA_KELAS": "MASJID SULTAN RIAU PEYENGAT",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1888",
+    "NAMA": "In Amul Aufa Al Zamzami",
+    "ID_KELAS": "1C",
+    "NAMA_KELAS": "MASJID SULTAN RIAU PEYENGAT",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1889",
+    "NAMA": "Kafie Athallah Ghaziy Wirayuda",
+    "ID_KELAS": "1C",
+    "NAMA_KELAS": "MASJID SULTAN RIAU PEYENGAT",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1891",
+    "NAMA": "Keana Chandarabumi Darmawan",
+    "ID_KELAS": "1C",
+    "NAMA_KELAS": "MASJID SULTAN RIAU PEYENGAT",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1902",
+    "NAMA": "Mikhayla Hafza Farasti",
+    "ID_KELAS": "1C",
+    "NAMA_KELAS": "MASJID SULTAN RIAU PEYENGAT",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1908",
+    "NAMA": "Muhammad Fakhrial Attarizayn Asyauqi",
+    "ID_KELAS": "1C",
+    "NAMA_KELAS": "MASJID SULTAN RIAU PEYENGAT",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1915",
+    "NAMA": "Muhammad Rafi Ramadhan",
+    "ID_KELAS": "1C",
+    "NAMA_KELAS": "MASJID SULTAN RIAU PEYENGAT",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1918",
+    "NAMA": "Muhammad Safarez Rashya Ardianto",
+    "ID_KELAS": "1C",
+    "NAMA_KELAS": "MASJID SULTAN RIAU PEYENGAT",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1920",
+    "NAMA": "Muhammad Zayan Athariz",
+    "ID_KELAS": "1C",
+    "NAMA_KELAS": "MASJID SULTAN RIAU PEYENGAT",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1926",
+    "NAMA": "Nasyitha Naufalyn Najiyah",
+    "ID_KELAS": "1C",
+    "NAMA_KELAS": "MASJID SULTAN RIAU PEYENGAT",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1932",
+    "NAMA": "Raga Muslim Nusantara",
+    "ID_KELAS": "1C",
+    "NAMA_KELAS": "MASJID SULTAN RIAU PEYENGAT",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1934",
+    "NAMA": "Rania Azzahra Putri Arlea",
+    "ID_KELAS": "1C",
+    "NAMA_KELAS": "MASJID SULTAN RIAU PEYENGAT",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1938",
+    "NAMA": "Rois Gholin Al-Isyqy",
+    "ID_KELAS": "1C",
+    "NAMA_KELAS": "MASJID SULTAN RIAU PEYENGAT",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1940",
+    "NAMA": "Sholahuddin Luqman Wibisono",
+    "ID_KELAS": "1C",
+    "NAMA_KELAS": "MASJID SULTAN RIAU PEYENGAT",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1841",
+    "NAMA": "Airis Nafi'Ah Khairunnisa",
+    "ID_KELAS": "1D",
+    "NAMA_KELAS": "MASJID TUWO KAYU JAO",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1842",
+    "NAMA": "Airlangga Satriaji Wicaksono",
+    "ID_KELAS": "1D",
+    "NAMA_KELAS": "MASJID TUWO KAYU JAO",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1844",
+    "NAMA": "Aisyah Kamilah",
+    "ID_KELAS": "1D",
+    "NAMA_KELAS": "MASJID TUWO KAYU JAO",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1845",
+    "NAMA": "Aisyah Viona Azkadina",
+    "ID_KELAS": "1D",
+    "NAMA_KELAS": "MASJID TUWO KAYU JAO",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1859",
+    "NAMA": "Arzachel Alvaro Naufal",
+    "ID_KELAS": "1D",
+    "NAMA_KELAS": "MASJID TUWO KAYU JAO",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1861",
+    "NAMA": "Azizah Rizal Ghoniem",
+    "ID_KELAS": "1D",
+    "NAMA_KELAS": "MASJID TUWO KAYU JAO",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1862",
+    "NAMA": "Azmiy Runako Yusuf",
+    "ID_KELAS": "1D",
+    "NAMA_KELAS": "MASJID TUWO KAYU JAO",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1863",
+    "NAMA": "Azzahra Hannan Sanjaya",
+    "ID_KELAS": "1D",
+    "NAMA_KELAS": "MASJID TUWO KAYU JAO",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1866",
+    "NAMA": "Bryan Fatih Aryasatya",
+    "ID_KELAS": "1D",
+    "NAMA_KELAS": "MASJID TUWO KAYU JAO",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1868",
+    "NAMA": "Dzulqarnain Latif Wibowo",
+    "ID_KELAS": "1D",
+    "NAMA_KELAS": "MASJID TUWO KAYU JAO",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1871",
+    "NAMA": "Elvira Azhar Putri Akhula",
+    "ID_KELAS": "1D",
+    "NAMA_KELAS": "MASJID TUWO KAYU JAO",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1875",
+    "NAMA": "Fanisha Azkadina",
+    "ID_KELAS": "1D",
+    "NAMA_KELAS": "MASJID TUWO KAYU JAO",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1876",
+    "NAMA": "Faridz Biyan Al Fatih",
+    "ID_KELAS": "1D",
+    "NAMA_KELAS": "MASJID TUWO KAYU JAO",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1877",
+    "NAMA": "Fathian Akhmad Raffasya",
+    "ID_KELAS": "1D",
+    "NAMA_KELAS": "MASJID TUWO KAYU JAO",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1881",
+    "NAMA": "Geasya Raqilla Aliana Hafidzah",
+    "ID_KELAS": "1D",
+    "NAMA_KELAS": "MASJID TUWO KAYU JAO",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1884",
+    "NAMA": "Hafizh Irham Ferdiansyah",
+    "ID_KELAS": "1D",
+    "NAMA_KELAS": "MASJID TUWO KAYU JAO",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1892",
+    "NAMA": "Keanu Naryama Sidqei",
+    "ID_KELAS": "1D",
+    "NAMA_KELAS": "MASJID TUWO KAYU JAO",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1893",
+    "NAMA": "Kelvino Elmoza Asyraf",
+    "ID_KELAS": "1D",
+    "NAMA_KELAS": "MASJID TUWO KAYU JAO",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1897",
+    "NAMA": "Kianoush Atanara Pribadi",
+    "ID_KELAS": "1D",
+    "NAMA_KELAS": "MASJID TUWO KAYU JAO",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1899",
+    "NAMA": "Kyara Keysensia Putri",
+    "ID_KELAS": "1D",
+    "NAMA_KELAS": "MASJID TUWO KAYU JAO",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1903",
+    "NAMA": "Muhamad Ibrahim Majid Alfatih",
+    "ID_KELAS": "1D",
+    "NAMA_KELAS": "MASJID TUWO KAYU JAO",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1909",
+    "NAMA": "Muhammad Faqih Habiburrahman",
+    "ID_KELAS": "1D",
+    "NAMA_KELAS": "MASJID TUWO KAYU JAO",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1911",
+    "NAMA": "Muhammad Haykal Abhiseva",
+    "ID_KELAS": "1D",
+    "NAMA_KELAS": "MASJID TUWO KAYU JAO",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1919",
+    "NAMA": "Muhammad Safaroz Rafisqy Ardianto",
+    "ID_KELAS": "1D",
+    "NAMA_KELAS": "MASJID TUWO KAYU JAO",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1927",
+    "NAMA": "Panji Naufal Ramadhanis",
+    "ID_KELAS": "1D",
+    "NAMA_KELAS": "MASJID TUWO KAYU JAO",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1930",
+    "NAMA": "Rafa Arshad Primadani",
+    "ID_KELAS": "1D",
+    "NAMA_KELAS": "MASJID TUWO KAYU JAO",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1935",
+    "NAMA": "Ranya Azkadina Soelistianto",
+    "ID_KELAS": "1D",
+    "NAMA_KELAS": "MASJID TUWO KAYU JAO",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1939",
+    "NAMA": "Shanumindira Sabiya Farrahinas",
+    "ID_KELAS": "1D",
+    "NAMA_KELAS": "MASJID TUWO KAYU JAO",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1713",
+    "NAMA": "Abraham Garrison Santoso",
+    "ID_KELAS": "2A",
+    "NAMA_KELAS": "MASJID ISTIQLAL",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1714",
+    "NAMA": "Achazia Zippora Sachi Hananta",
+    "ID_KELAS": "2A",
+    "NAMA_KELAS": "MASJID ISTIQLAL",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1715",
+    "NAMA": "Ahmad Bilal Darmadya",
+    "ID_KELAS": "2A",
+    "NAMA_KELAS": "MASJID ISTIQLAL",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1726",
+    "NAMA": "Almahira Zayyan Makaila",
+    "ID_KELAS": "2A",
+    "NAMA_KELAS": "MASJID ISTIQLAL",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1943",
+    "NAMA": "Amira Fatiha Ghina",
+    "ID_KELAS": "2A",
+    "NAMA_KELAS": "MASJID ISTIQLAL",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1736",
+    "NAMA": "Arkaizan Mishary Admagrandis",
+    "ID_KELAS": "2A",
+    "NAMA_KELAS": "MASJID ISTIQLAL",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1740",
+    "NAMA": "Asgardio Yusuf",
+    "ID_KELAS": "2A",
+    "NAMA_KELAS": "MASJID ISTIQLAL",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1741",
+    "NAMA": "Athaya Maryam Puerdinka",
+    "ID_KELAS": "2A",
+    "NAMA_KELAS": "MASJID ISTIQLAL",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1743",
+    "NAMA": "Ayska Aqila Andhata",
+    "ID_KELAS": "2A",
+    "NAMA_KELAS": "MASJID ISTIQLAL",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1746",
+    "NAMA": "Bimo Alvaronizam Wilbert",
+    "ID_KELAS": "2A",
+    "NAMA_KELAS": "MASJID ISTIQLAL",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1749",
+    "NAMA": "Denise Aulia Candra",
+    "ID_KELAS": "2A",
+    "NAMA_KELAS": "MASJID ISTIQLAL",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1751",
+    "NAMA": "Dhinastia Bestary",
+    "ID_KELAS": "2A",
+    "NAMA_KELAS": "MASJID ISTIQLAL",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1762",
+    "NAMA": "Gibran Xavier Kamal",
+    "ID_KELAS": "2A",
+    "NAMA_KELAS": "MASJID ISTIQLAL",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1767",
+    "NAMA": "Kayyisah Azkadina Putri",
+    "ID_KELAS": "2A",
+    "NAMA_KELAS": "MASJID ISTIQLAL",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1825",
+    "NAMA": "Kirana Mutia Azzahra",
+    "ID_KELAS": "2A",
+    "NAMA_KELAS": "MASJID ISTIQLAL",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1778",
+    "NAMA": "Muhami Abdurrahman Al-Ayyubi",
+    "ID_KELAS": "2A",
+    "NAMA_KELAS": "MASJID ISTIQLAL",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1780",
+    "NAMA": "Muhammad Asyraf Nizhamuddin",
+    "ID_KELAS": "2A",
+    "NAMA_KELAS": "MASJID ISTIQLAL",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1782",
+    "NAMA": "Muhammad Gibran Al Arsy",
+    "ID_KELAS": "2A",
+    "NAMA_KELAS": "MASJID ISTIQLAL",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1785",
+    "NAMA": "Muhammad Mahdi",
+    "ID_KELAS": "2A",
+    "NAMA_KELAS": "MASJID ISTIQLAL",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1786",
+    "NAMA": "Muhammad Saamy Azzuhri",
+    "ID_KELAS": "2A",
+    "NAMA_KELAS": "MASJID ISTIQLAL",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1794",
+    "NAMA": "Nasyauqi Tsabitah Azzahra",
+    "ID_KELAS": "2A",
+    "NAMA_KELAS": "MASJID ISTIQLAL",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1802",
+    "NAMA": "Raisa Arnelita Putri",
+    "ID_KELAS": "2A",
+    "NAMA_KELAS": "MASJID ISTIQLAL",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1803",
+    "NAMA": "Raisa Ratifa Dewi",
+    "ID_KELAS": "2A",
+    "NAMA_KELAS": "MASJID ISTIQLAL",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1808",
+    "NAMA": "Sabian Azka Setiawan",
+    "ID_KELAS": "2A",
+    "NAMA_KELAS": "MASJID ISTIQLAL",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1817",
+    "NAMA": "Syifa Adiba Hasna",
+    "ID_KELAS": "2A",
+    "NAMA_KELAS": "MASJID ISTIQLAL",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1820",
+    "NAMA": "Wara Alvaro Yavea Zamarion",
+    "ID_KELAS": "2A",
+    "NAMA_KELAS": "MASJID ISTIQLAL",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1821",
+    "NAMA": "Zacky Akthara",
+    "ID_KELAS": "2A",
+    "NAMA_KELAS": "MASJID ISTIQLAL",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1716",
+    "NAMA": "Abidah Kamila Faiza",
+    "ID_KELAS": "2B",
+    "NAMA_KELAS": "MASJID AL AKBAR",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1719",
+    "NAMA": "Ahmed Ghazali Abdul Ghoni",
+    "ID_KELAS": "2B",
+    "NAMA_KELAS": "MASJID AL AKBAR",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1728",
+    "NAMA": "Almeera Qaireen Ferryanto",
+    "ID_KELAS": "2B",
+    "NAMA_KELAS": "MASJID AL AKBAR",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1731",
+    "NAMA": "Alya Azizah Putri",
+    "ID_KELAS": "2B",
+    "NAMA_KELAS": "MASJID AL AKBAR",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1732",
+    "NAMA": "Apsari Aulia Madani",
+    "ID_KELAS": "2B",
+    "NAMA_KELAS": "MASJID AL AKBAR",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1734",
+    "NAMA": "Ardelia Salsabila Prasetya",
+    "ID_KELAS": "2B",
+    "NAMA_KELAS": "MASJID AL AKBAR",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1744",
+    "NAMA": "Azka Malik Ibrahim",
+    "ID_KELAS": "2B",
+    "NAMA_KELAS": "MASJID AL AKBAR",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1745",
+    "NAMA": "Bilqis Alesha Via Lobe",
+    "ID_KELAS": "2B",
+    "NAMA_KELAS": "MASJID AL AKBAR",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1748",
+    "NAMA": "Daneswara Kaleaqoba",
+    "ID_KELAS": "2B",
+    "NAMA_KELAS": "MASJID AL AKBAR",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1750",
+    "NAMA": "Dhea Ayunda Febimawarni",
+    "ID_KELAS": "2B",
+    "NAMA_KELAS": "MASJID AL AKBAR",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1752",
+    "NAMA": "Diego Zhafran Adelmar Justice",
+    "ID_KELAS": "2B",
+    "NAMA_KELAS": "MASJID AL AKBAR",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1758",
+    "NAMA": "Ganendra Aryasatya Kusumajaya",
+    "ID_KELAS": "2B",
+    "NAMA_KELAS": "MASJID AL AKBAR",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1763",
+    "NAMA": "Iqbal Minhajul Abidin Pribadi",
+    "ID_KELAS": "2B",
+    "NAMA_KELAS": "MASJID AL AKBAR",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1768",
+    "NAMA": "Khanza Alycia Queen Yosefania",
+    "ID_KELAS": "2B",
+    "NAMA_KELAS": "MASJID AL AKBAR",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1770",
+    "NAMA": "Leora Maureen Aditya",
+    "ID_KELAS": "2B",
+    "NAMA_KELAS": "MASJID AL AKBAR",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1772",
+    "NAMA": "M. Al-Azizi Zubaydi Maulana",
+    "ID_KELAS": "2B",
+    "NAMA_KELAS": "MASJID AL AKBAR",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1779",
+    "NAMA": "Muhammad Arrafif Yusufa",
+    "ID_KELAS": "2B",
+    "NAMA_KELAS": "MASJID AL AKBAR",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1781",
+    "NAMA": "Muhammad Farid Tattong Bunga",
+    "ID_KELAS": "2B",
+    "NAMA_KELAS": "MASJID AL AKBAR",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1787",
+    "NAMA": "Muhammad Sauqi Bagaskara",
+    "ID_KELAS": "2B",
+    "NAMA_KELAS": "MASJID AL AKBAR",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1788",
+    "NAMA": "Muhammad Wildan Syamsudin",
+    "ID_KELAS": "2B",
+    "NAMA_KELAS": "MASJID AL AKBAR",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1798",
+    "NAMA": "Quenazahra Laviola Kimora Yuarta",
+    "ID_KELAS": "2B",
+    "NAMA_KELAS": "MASJID AL AKBAR",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1801",
+    "NAMA": "Rafli Althaf Ghaisan",
+    "ID_KELAS": "2B",
+    "NAMA_KELAS": "MASJID AL AKBAR",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1806",
+    "NAMA": "Ralina Sirahlexa Wijanarko",
+    "ID_KELAS": "2B",
+    "NAMA_KELAS": "MASJID AL AKBAR",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1809",
+    "NAMA": "Sabila Hamda Malki",
+    "ID_KELAS": "2B",
+    "NAMA_KELAS": "MASJID AL AKBAR",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1815",
+    "NAMA": "Shaka Abimanyu Arganta",
+    "ID_KELAS": "2B",
+    "NAMA_KELAS": "MASJID AL AKBAR",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1818",
+    "NAMA": "Tenzel Ar Raafi Hasan",
+    "ID_KELAS": "2B",
+    "NAMA_KELAS": "MASJID AL AKBAR",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1819",
+    "NAMA": "Tsany Kasyfur Rahman",
+    "ID_KELAS": "2B",
+    "NAMA_KELAS": "MASJID AL AKBAR",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1720",
+    "NAMA": "Airin Syakila Putri",
+    "ID_KELAS": "2C",
+    "NAMA_KELAS": "MASJID GEDE KAUMAN",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1722",
+    "NAMA": "Akbar Caesar Nurfattah",
+    "ID_KELAS": "2C",
+    "NAMA_KELAS": "MASJID GEDE KAUMAN",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1725",
+    "NAMA": "Allister Carleon Iswantopo",
+    "ID_KELAS": "2C",
+    "NAMA_KELAS": "MASJID GEDE KAUMAN",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1733",
+    "NAMA": "Ardani Dewi Masitoh",
+    "ID_KELAS": "2C",
+    "NAMA_KELAS": "MASJID GEDE KAUMAN",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1735",
+    "NAMA": "Arina Salsabila Ramadhani",
+    "ID_KELAS": "2C",
+    "NAMA_KELAS": "MASJID GEDE KAUMAN",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1737",
+    "NAMA": "Arkan Al Kahfi",
+    "ID_KELAS": "2C",
+    "NAMA_KELAS": "MASJID GEDE KAUMAN",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1738",
+    "NAMA": "Arsy Aflahul Ghifary Syahyu",
+    "ID_KELAS": "2C",
+    "NAMA_KELAS": "MASJID GEDE KAUMAN",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1944",
+    "NAMA": "Balya Ahmed Al Arsy",
+    "ID_KELAS": "2C",
+    "NAMA_KELAS": "MASJID GEDE KAUMAN",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1954",
+    "NAMA": "Celina Leona Thompson",
+    "ID_KELAS": "2C",
+    "NAMA_KELAS": "MASJID GEDE KAUMAN",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1753",
+    "NAMA": "Dwipha Rakaaji",
+    "ID_KELAS": "2C",
+    "NAMA_KELAS": "MASJID GEDE KAUMAN",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1757",
+    "NAMA": "Fawwaz Zamzamy Al-Musthofa",
+    "ID_KELAS": "2C",
+    "NAMA_KELAS": "MASJID GEDE KAUMAN",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1759",
+    "NAMA": "Gauzan Al Khalifi Putraayra",
+    "ID_KELAS": "2C",
+    "NAMA_KELAS": "MASJID GEDE KAUMAN",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1760",
+    "NAMA": "Ghazeeya Ainun Syauqiya",
+    "ID_KELAS": "2C",
+    "NAMA_KELAS": "MASJID GEDE KAUMAN",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1761",
+    "NAMA": "Ghealsy Ayudya Rizki",
+    "ID_KELAS": "2C",
+    "NAMA_KELAS": "MASJID GEDE KAUMAN",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1766",
+    "NAMA": "Kanaka Arganta Bramantyo",
+    "ID_KELAS": "2C",
+    "NAMA_KELAS": "MASJID GEDE KAUMAN",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1769",
+    "NAMA": "Lalu Althafurrahman Ircya Putra",
+    "ID_KELAS": "2C",
+    "NAMA_KELAS": "MASJID GEDE KAUMAN",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1771",
+    "NAMA": "Lubna Khairunnisa Putri Indratmo",
+    "ID_KELAS": "2C",
+    "NAMA_KELAS": "MASJID GEDE KAUMAN",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1773",
+    "NAMA": "Malvin Aquila Sava Wibowo",
+    "ID_KELAS": "2C",
+    "NAMA_KELAS": "MASJID GEDE KAUMAN",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1775",
+    "NAMA": "Mochammad Haikal Azzaky",
+    "ID_KELAS": "2C",
+    "NAMA_KELAS": "MASJID GEDE KAUMAN",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1784",
+    "NAMA": "Muhammad Ismail Arta",
+    "ID_KELAS": "2C",
+    "NAMA_KELAS": "MASJID GEDE KAUMAN",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1791",
+    "NAMA": "Muhammad Zidane Alfarizqi",
+    "ID_KELAS": "2C",
+    "NAMA_KELAS": "MASJID GEDE KAUMAN",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1793",
+    "NAMA": "Nadia Fairuza Kamila Pribadi",
+    "ID_KELAS": "2C",
+    "NAMA_KELAS": "MASJID GEDE KAUMAN",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1811",
+    "NAMA": "Salasika Tasanee",
+    "ID_KELAS": "2C",
+    "NAMA_KELAS": "MASJID GEDE KAUMAN",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1812",
+    "NAMA": "Salju Bumi Saariselka",
+    "ID_KELAS": "2C",
+    "NAMA_KELAS": "MASJID GEDE KAUMAN",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1813",
+    "NAMA": "Sandhya Dahayu Nareswari Ridyan",
+    "ID_KELAS": "2C",
+    "NAMA_KELAS": "MASJID GEDE KAUMAN",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1816",
+    "NAMA": "Syaqila Assyabiya Yuri Widodo",
+    "ID_KELAS": "2C",
+    "NAMA_KELAS": "MASJID GEDE KAUMAN",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1822",
+    "NAMA": "Zulfan Zahin",
+    "ID_KELAS": "2C",
+    "NAMA_KELAS": "MASJID GEDE KAUMAN",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1717",
+    "NAMA": "Adam Imtiyazy Makki",
+    "ID_KELAS": "2D",
+    "NAMA_KELAS": "MASJID SYEKH ZAYED",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1721",
+    "NAMA": "Aisyah Sarah Rabbani",
+    "ID_KELAS": "2D",
+    "NAMA_KELAS": "MASJID SYEKH ZAYED",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1723",
+    "NAMA": "Al Irsyad Reifansyah Arif",
+    "ID_KELAS": "2D",
+    "NAMA_KELAS": "MASJID SYEKH ZAYED",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1727",
+    "NAMA": "Almahyra Khalisa Putri",
+    "ID_KELAS": "2D",
+    "NAMA_KELAS": "MASJID SYEKH ZAYED",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1730",
+    "NAMA": "Alya Afiqah Azzahra",
+    "ID_KELAS": "2D",
+    "NAMA_KELAS": "MASJID SYEKH ZAYED",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1739",
+    "NAMA": "Arsyira Shangsa Mahdiantoro",
+    "ID_KELAS": "2D",
+    "NAMA_KELAS": "MASJID SYEKH ZAYED",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1742",
+    "NAMA": "Athmar Frinizzan Shidqie Aldari",
+    "ID_KELAS": "2D",
+    "NAMA_KELAS": "MASJID SYEKH ZAYED",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1754",
+    "NAMA": "Dylan Athaya Dzihni",
+    "ID_KELAS": "2D",
+    "NAMA_KELAS": "MASJID SYEKH ZAYED",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1755",
+    "NAMA": "Faiza Azzahra",
+    "ID_KELAS": "2D",
+    "NAMA_KELAS": "MASJID SYEKH ZAYED",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1756",
+    "NAMA": "Fatimah Azzahra Maron",
+    "ID_KELAS": "2D",
+    "NAMA_KELAS": "MASJID SYEKH ZAYED",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1953",
+    "NAMA": "Hanan Maulana Shiddiq",
+    "ID_KELAS": "2D",
+    "NAMA_KELAS": "MASJID SYEKH ZAYED",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1764",
+    "NAMA": "Jihan Malihah Putri",
+    "ID_KELAS": "2D",
+    "NAMA_KELAS": "MASJID SYEKH ZAYED",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1824",
+    "NAMA": "Keiko Adzkiya Farzana Deeba",
+    "ID_KELAS": "2D",
+    "NAMA_KELAS": "MASJID SYEKH ZAYED",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1776",
+    "NAMA": "Mohammad Rizky Adam",
+    "ID_KELAS": "2D",
+    "NAMA_KELAS": "MASJID SYEKH ZAYED",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1777",
+    "NAMA": "Mohammed Ibrahim Purbawisesa",
+    "ID_KELAS": "2D",
+    "NAMA_KELAS": "MASJID SYEKH ZAYED",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1783",
+    "NAMA": "Muhammad Hafidz Al Fatih",
+    "ID_KELAS": "2D",
+    "NAMA_KELAS": "MASJID SYEKH ZAYED",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1790",
+    "NAMA": "Muhammad Zaidan Syamsudin",
+    "ID_KELAS": "2D",
+    "NAMA_KELAS": "MASJID SYEKH ZAYED",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1795",
+    "NAMA": "Naura Almeira Putri Puji",
+    "ID_KELAS": "2D",
+    "NAMA_KELAS": "MASJID SYEKH ZAYED",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1796",
+    "NAMA": "Nayyara Keisya Jenna",
+    "ID_KELAS": "2D",
+    "NAMA_KELAS": "MASJID SYEKH ZAYED",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1797",
+    "NAMA": "Nurjibril Haidir Admaja",
+    "ID_KELAS": "2D",
+    "NAMA_KELAS": "MASJID SYEKH ZAYED",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1800",
+    "NAMA": "Raffahlevi Putra Al Maghribi",
+    "ID_KELAS": "2D",
+    "NAMA_KELAS": "MASJID SYEKH ZAYED",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1804",
+    "NAMA": "Raka Rafasya Bachri",
+    "ID_KELAS": "2D",
+    "NAMA_KELAS": "MASJID SYEKH ZAYED",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1805",
+    "NAMA": "Rakha Ahza Athaya",
+    "ID_KELAS": "2D",
+    "NAMA_KELAS": "MASJID SYEKH ZAYED",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1810",
+    "NAMA": "Sabrina Laquisha Yusuf",
+    "ID_KELAS": "2D",
+    "NAMA_KELAS": "MASJID SYEKH ZAYED",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1829",
+    "NAMA": "Salsabila Putri Azzahra",
+    "ID_KELAS": "2D",
+    "NAMA_KELAS": "MASJID SYEKH ZAYED",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1814",
+    "NAMA": "Shabrina Shidqia Arganta",
+    "ID_KELAS": "2D",
+    "NAMA_KELAS": "MASJID SYEKH ZAYED",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1602",
+    "NAMA": "Abdurrahman Addakhil Nasir",
+    "ID_KELAS": "3A",
+    "NAMA_KELAS": "MASJID JAMI' JINGAH",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1607",
+    "NAMA": "Afareen Qidzama Nazhaleya",
+    "ID_KELAS": "3A",
+    "NAMA_KELAS": "MASJID JAMI' JINGAH",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1610",
+    "NAMA": "Ahmad Wildan Ali Farzani",
+    "ID_KELAS": "3A",
+    "NAMA_KELAS": "MASJID JAMI' JINGAH",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1615",
+    "NAMA": "Alaric Muhammad Adnicho Romadhoni",
+    "ID_KELAS": "3A",
+    "NAMA_KELAS": "MASJID JAMI' JINGAH",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1619",
+    "NAMA": "Alesha Zahra Arie Wicaksono",
+    "ID_KELAS": "3A",
+    "NAMA_KELAS": "MASJID JAMI' JINGAH",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1622",
+    "NAMA": "Almira Zafirah Widodo",
+    "ID_KELAS": "3A",
+    "NAMA_KELAS": "MASJID JAMI' JINGAH",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1945",
+    "NAMA": "Amira Ghina Diajeng Askha",
+    "ID_KELAS": "3A",
+    "NAMA_KELAS": "MASJID JAMI' JINGAH",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1626",
+    "NAMA": "Aruna Carientra",
+    "ID_KELAS": "3A",
+    "NAMA_KELAS": "MASJID JAMI' JINGAH",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1627",
+    "NAMA": "Arya Diwangkara Buana",
+    "ID_KELAS": "3A",
+    "NAMA_KELAS": "MASJID JAMI' JINGAH",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1631",
+    "NAMA": "Bagas Rafif Putra Seno",
+    "ID_KELAS": "3A",
+    "NAMA_KELAS": "MASJID JAMI' JINGAH",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1637",
+    "NAMA": "Fathan Alfarizqy Martasundjaya",
+    "ID_KELAS": "3A",
+    "NAMA_KELAS": "MASJID JAMI' JINGAH",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1651",
+    "NAMA": "Kenzie Hamizan Zamzami",
+    "ID_KELAS": "3A",
+    "NAMA_KELAS": "MASJID JAMI' JINGAH",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1653",
+    "NAMA": "Khanza Otylia Rosyidi",
+    "ID_KELAS": "3A",
+    "NAMA_KELAS": "MASJID JAMI' JINGAH",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1654",
+    "NAMA": "Kiandra Alya Nauli Harahap",
+    "ID_KELAS": "3A",
+    "NAMA_KELAS": "MASJID JAMI' JINGAH",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1656",
+    "NAMA": "M. Fernando Adelard Adha Df",
+    "ID_KELAS": "3A",
+    "NAMA_KELAS": "MASJID JAMI' JINGAH",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1659",
+    "NAMA": "Maulana Neil Amjad",
+    "ID_KELAS": "3A",
+    "NAMA_KELAS": "MASJID JAMI' JINGAH",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1664",
+    "NAMA": "Muhammad Alif Nabil Al Fatih",
+    "ID_KELAS": "3A",
+    "NAMA_KELAS": "MASJID JAMI' JINGAH",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1665",
+    "NAMA": "Muhammad Arkan Harith Putra",
+    "ID_KELAS": "3A",
+    "NAMA_KELAS": "MASJID JAMI' JINGAH",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1672",
+    "NAMA": "Muhammad Haydar Senna Ramadhan",
+    "ID_KELAS": "3A",
+    "NAMA_KELAS": "MASJID JAMI' JINGAH",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1675",
+    "NAMA": "Muhammad Naufal Ramadhan Antara",
+    "ID_KELAS": "3A",
+    "NAMA_KELAS": "MASJID JAMI' JINGAH",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1789",
+    "NAMA": "Muhammad Yusril Zain Al Arsy",
+    "ID_KELAS": "3A",
+    "NAMA_KELAS": "MASJID JAMI' JINGAH",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1681",
+    "NAMA": "Muhammad Zafran Al Jazari",
+    "ID_KELAS": "3A",
+    "NAMA_KELAS": "MASJID JAMI' JINGAH",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1683",
+    "NAMA": "Najwa Khadijah Damiya",
+    "ID_KELAS": "3A",
+    "NAMA_KELAS": "MASJID JAMI' JINGAH",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1685",
+    "NAMA": "Nareswari Zhafirasya Fajrin",
+    "ID_KELAS": "3A",
+    "NAMA_KELAS": "MASJID JAMI' JINGAH",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1692",
+    "NAMA": "Rayadh Al Fath",
+    "ID_KELAS": "3A",
+    "NAMA_KELAS": "MASJID JAMI' JINGAH",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1697",
+    "NAMA": "Shakilla Naura Azzahra",
+    "ID_KELAS": "3A",
+    "NAMA_KELAS": "MASJID JAMI' JINGAH",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1703",
+    "NAMA": "Yafiq Althaf Achmad",
+    "ID_KELAS": "3A",
+    "NAMA_KELAS": "MASJID JAMI' JINGAH",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1621",
+    "NAMA": "Aliyya Naufalyn Ramadhina",
+    "ID_KELAS": "3B",
+    "NAMA_KELAS": "MASJID SABILAL MU'TADIN",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1624",
+    "NAMA": "Alvino Giovani Siregar",
+    "ID_KELAS": "3B",
+    "NAMA_KELAS": "MASJID SABILAL MU'TADIN",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1830",
+    "NAMA": "Amira Raisah Kalani",
+    "ID_KELAS": "3B",
+    "NAMA_KELAS": "MASJID SABILAL MU'TADIN",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1629",
+    "NAMA": "Athiyah Putri Almira",
+    "ID_KELAS": "3B",
+    "NAMA_KELAS": "MASJID SABILAL MU'TADIN",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1632",
+    "NAMA": "Bagus Rafif Putra Seno",
+    "ID_KELAS": "3B",
+    "NAMA_KELAS": "MASJID SABILAL MU'TADIN",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1633",
+    "NAMA": "Danish Ahza Arzachel",
+    "ID_KELAS": "3B",
+    "NAMA_KELAS": "MASJID SABILAL MU'TADIN",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1642",
+    "NAMA": "Haikal Yanuar Rahman",
+    "ID_KELAS": "3B",
+    "NAMA_KELAS": "MASJID SABILAL MU'TADIN",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1646",
+    "NAMA": "Hayde Keiz Zidan",
+    "ID_KELAS": "3B",
+    "NAMA_KELAS": "MASJID SABILAL MU'TADIN",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1827",
+    "NAMA": "Ibrahim Gathan Pradana",
+    "ID_KELAS": "3B",
+    "NAMA_KELAS": "MASJID SABILAL MU'TADIN",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1650",
+    "NAMA": "Keenan Ramadhana Nandadhiva",
+    "ID_KELAS": "3B",
+    "NAMA_KELAS": "MASJID SABILAL MU'TADIN",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1661",
+    "NAMA": "Moh Mirza Fatikhurroyan",
+    "ID_KELAS": "3B",
+    "NAMA_KELAS": "MASJID SABILAL MU'TADIN",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1946",
+    "NAMA": "Muhammad Afkar Rifqi",
+    "ID_KELAS": "3B",
+    "NAMA_KELAS": "MASJID SABILAL MU'TADIN",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1674",
+    "NAMA": "Muhammad Nafiz Faris Asyraf",
+    "ID_KELAS": "3B",
+    "NAMA_KELAS": "MASJID SABILAL MU'TADIN",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1676",
+    "NAMA": "Muhammad Nizar Zulmi",
+    "ID_KELAS": "3B",
+    "NAMA_KELAS": "MASJID SABILAL MU'TADIN",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1677",
+    "NAMA": "Muhammad Putra Wirasena Sanjaya",
+    "ID_KELAS": "3B",
+    "NAMA_KELAS": "MASJID SABILAL MU'TADIN",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1678",
+    "NAMA": "Muhammad Rafdany Kurniawan",
+    "ID_KELAS": "3B",
+    "NAMA_KELAS": "MASJID SABILAL MU'TADIN",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1680",
+    "NAMA": "Muhammad Xiza Hariri Assyauqi",
+    "ID_KELAS": "3B",
+    "NAMA_KELAS": "MASJID SABILAL MU'TADIN",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1682",
+    "NAMA": "Nabila Khadziqah Aulya Azmi",
+    "ID_KELAS": "3B",
+    "NAMA_KELAS": "MASJID SABILAL MU'TADIN",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1687",
+    "NAMA": "Nayla Tanisha Priadini",
+    "ID_KELAS": "3B",
+    "NAMA_KELAS": "MASJID SABILAL MU'TADIN",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1689",
+    "NAMA": "Rajwa Salsabila Kurniawan",
+    "ID_KELAS": "3B",
+    "NAMA_KELAS": "MASJID SABILAL MU'TADIN",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1693",
+    "NAMA": "Reval Akmal El-Azzam",
+    "ID_KELAS": "3B",
+    "NAMA_KELAS": "MASJID SABILAL MU'TADIN",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1694",
+    "NAMA": "Reyhan Purnama Al Fatih",
+    "ID_KELAS": "3B",
+    "NAMA_KELAS": "MASJID SABILAL MU'TADIN",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1696",
+    "NAMA": "Sekar Wilujeng Larasati",
+    "ID_KELAS": "3B",
+    "NAMA_KELAS": "MASJID SABILAL MU'TADIN",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1700",
+    "NAMA": "Thara Kaylitia Sindu",
+    "ID_KELAS": "3B",
+    "NAMA_KELAS": "MASJID SABILAL MU'TADIN",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1947",
+    "NAMA": "Tiear Rayyan Ramadhan",
+    "ID_KELAS": "3B",
+    "NAMA_KELAS": "MASJID SABILAL MU'TADIN",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1701",
+    "NAMA": "Tiffany Almeira Praworo Putri",
+    "ID_KELAS": "3B",
+    "NAMA_KELAS": "MASJID SABILAL MU'TADIN",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1702",
+    "NAMA": "Tristan Avicenna Attila Ahmad",
+    "ID_KELAS": "3B",
+    "NAMA_KELAS": "MASJID SABILAL MU'TADIN",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1605",
+    "NAMA": "Adelina Maheswari Adia",
+    "ID_KELAS": "3C",
+    "NAMA_KELAS": "MASJID BAMBU KIRAM",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1609",
+    "NAMA": "Ahmad Averroes Hakky",
+    "ID_KELAS": "3C",
+    "NAMA_KELAS": "MASJID BAMBU KIRAM",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1614",
+    "NAMA": "Aisyah Hafidzatul Husna",
+    "ID_KELAS": "3C",
+    "NAMA_KELAS": "MASJID BAMBU KIRAM",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1618",
+    "NAMA": "Aldi Rasyid Prasetya",
+    "ID_KELAS": "3C",
+    "NAMA_KELAS": "MASJID BAMBU KIRAM",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1625",
+    "NAMA": "Ameera Hana Shakira Ramadhani",
+    "ID_KELAS": "3C",
+    "NAMA_KELAS": "MASJID BAMBU KIRAM",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1628",
+    "NAMA": "Aswin Bagaskara Firmanda",
+    "ID_KELAS": "3C",
+    "NAMA_KELAS": "MASJID BAMBU KIRAM",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1747",
+    "NAMA": "Clarisha Anindya Ayu",
+    "ID_KELAS": "3C",
+    "NAMA_KELAS": "MASJID BAMBU KIRAM",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1948",
+    "NAMA": "Dari Ilham Ramadhan",
+    "ID_KELAS": "3C",
+    "NAMA_KELAS": "MASJID BAMBU KIRAM",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1638",
+    "NAMA": "Fathiyya Almira Orlin",
+    "ID_KELAS": "3C",
+    "NAMA_KELAS": "MASJID BAMBU KIRAM",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1639",
+    "NAMA": "Gillian Abimana Saputra",
+    "ID_KELAS": "3C",
+    "NAMA_KELAS": "MASJID BAMBU KIRAM",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1640",
+    "NAMA": "Habibie Al Fatih",
+    "ID_KELAS": "3C",
+    "NAMA_KELAS": "MASJID BAMBU KIRAM",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1643",
+    "NAMA": "Haikal Zidan Fachrezi",
+    "ID_KELAS": "3C",
+    "NAMA_KELAS": "MASJID BAMBU KIRAM",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1644",
+    "NAMA": "Hanan Raziq Angkasa",
+    "ID_KELAS": "3C",
+    "NAMA_KELAS": "MASJID BAMBU KIRAM",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1647",
+    "NAMA": "Jihan Aqila Khanza Duski",
+    "ID_KELAS": "3C",
+    "NAMA_KELAS": "MASJID BAMBU KIRAM",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1765",
+    "NAMA": "Jill Alysha Adzkia Amanda",
+    "ID_KELAS": "3C",
+    "NAMA_KELAS": "MASJID BAMBU KIRAM",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1652",
+    "NAMA": "Keysha Devina Fitri",
+    "ID_KELAS": "3C",
+    "NAMA_KELAS": "MASJID BAMBU KIRAM",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1658",
+    "NAMA": "Maheswara Ali Wijaya",
+    "ID_KELAS": "3C",
+    "NAMA_KELAS": "MASJID BAMBU KIRAM",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1660",
+    "NAMA": "Miranda Addaria Yasha Ashila",
+    "ID_KELAS": "3C",
+    "NAMA_KELAS": "MASJID BAMBU KIRAM",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1662",
+    "NAMA": "Muhammad Adzkhan Prawira Negara Hariyadi",
+    "ID_KELAS": "3C",
+    "NAMA_KELAS": "MASJID BAMBU KIRAM",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1668",
+    "NAMA": "Muhammad Azzam Irsyady",
+    "ID_KELAS": "3C",
+    "NAMA_KELAS": "MASJID BAMBU KIRAM",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1670",
+    "NAMA": "Muhammad Bilal Abqari Sanjaya",
+    "ID_KELAS": "3C",
+    "NAMA_KELAS": "MASJID BAMBU KIRAM",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1679",
+    "NAMA": "Muhammad Raffaza Althaf Baihaqi",
+    "ID_KELAS": "3C",
+    "NAMA_KELAS": "MASJID BAMBU KIRAM",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1684",
+    "NAMA": "Nararya Farih Bumi Cahyono",
+    "ID_KELAS": "3C",
+    "NAMA_KELAS": "MASJID BAMBU KIRAM",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1688",
+    "NAMA": "Naufal Rafanino Indraguna",
+    "ID_KELAS": "3C",
+    "NAMA_KELAS": "MASJID BAMBU KIRAM",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1691",
+    "NAMA": "Rasendriya Agha Prasetiawan",
+    "ID_KELAS": "3C",
+    "NAMA_KELAS": "MASJID BAMBU KIRAM",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1699",
+    "NAMA": "Teuku Muhammad Ammar Alhazeeq",
+    "ID_KELAS": "3C",
+    "NAMA_KELAS": "MASJID BAMBU KIRAM",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1604",
+    "NAMA": "Achmad Prabu Revolusi",
+    "ID_KELAS": "3D",
+    "NAMA_KELAS": "MASJID ISLAMIC CENTRE",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1606",
+    "NAMA": "Adirajada Wirasena Utomo",
+    "ID_KELAS": "3D",
+    "NAMA_KELAS": "MASJID ISLAMIC CENTRE",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1711",
+    "NAMA": "Adzkia Khanza Shaufa Anggara",
+    "ID_KELAS": "3D",
+    "NAMA_KELAS": "MASJID ISLAMIC CENTRE",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1608",
+    "NAMA": "Afifah Nur Syakira",
+    "ID_KELAS": "3D",
+    "NAMA_KELAS": "MASJID ISLAMIC CENTRE",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1616",
+    "NAMA": "Alaric Shabaz Pravistara",
+    "ID_KELAS": "3D",
+    "NAMA_KELAS": "MASJID ISLAMIC CENTRE",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1617",
+    "NAMA": "Alaric Virzha Ferdiansyah",
+    "ID_KELAS": "3D",
+    "NAMA_KELAS": "MASJID ISLAMIC CENTRE",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1620",
+    "NAMA": "Alisha Shafiyah Akbar",
+    "ID_KELAS": "3D",
+    "NAMA_KELAS": "MASJID ISLAMIC CENTRE",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1623",
+    "NAMA": "Altaf Mario Indrabayu",
+    "ID_KELAS": "3D",
+    "NAMA_KELAS": "MASJID ISLAMIC CENTRE",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1630",
+    "NAMA": "Aura Gwenalesha Distira",
+    "ID_KELAS": "3D",
+    "NAMA_KELAS": "MASJID ISLAMIC CENTRE",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1826",
+    "NAMA": "Avisa Farzana Ghaisani",
+    "ID_KELAS": "3D",
+    "NAMA_KELAS": "MASJID ISLAMIC CENTRE",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1634",
+    "NAMA": "Diandra Arumi Anwar",
+    "ID_KELAS": "3D",
+    "NAMA_KELAS": "MASJID ISLAMIC CENTRE",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1635",
+    "NAMA": "Egy Al Qaris Keandre",
+    "ID_KELAS": "3D",
+    "NAMA_KELAS": "MASJID ISLAMIC CENTRE",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1636",
+    "NAMA": "Eljunna Sakya Kenda",
+    "ID_KELAS": "3D",
+    "NAMA_KELAS": "MASJID ISLAMIC CENTRE",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1641",
+    "NAMA": "Hafizh Putra Zalia",
+    "ID_KELAS": "3D",
+    "NAMA_KELAS": "MASJID ISLAMIC CENTRE",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1645",
+    "NAMA": "Harun Muhammad Dipa",
+    "ID_KELAS": "3D",
+    "NAMA_KELAS": "MASJID ISLAMIC CENTRE",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1649",
+    "NAMA": "Kaysa Iffah Najicha",
+    "ID_KELAS": "3D",
+    "NAMA_KELAS": "MASJID ISLAMIC CENTRE",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1655",
+    "NAMA": "Lainna Cevira Kusumahadi",
+    "ID_KELAS": "3D",
+    "NAMA_KELAS": "MASJID ISLAMIC CENTRE",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1663",
+    "NAMA": "Muhammad Abrizam Lyfandra Tsaqif",
+    "ID_KELAS": "3D",
+    "NAMA_KELAS": "MASJID ISLAMIC CENTRE",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1666",
+    "NAMA": "Muhammad Arshaka Raya Wibowo",
+    "ID_KELAS": "3D",
+    "NAMA_KELAS": "MASJID ISLAMIC CENTRE",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1667",
+    "NAMA": "Muhammad Athar Rizky Athaya",
+    "ID_KELAS": "3D",
+    "NAMA_KELAS": "MASJID ISLAMIC CENTRE",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1669",
+    "NAMA": "Muhammad Azzam Zhafran Safaraz",
+    "ID_KELAS": "3D",
+    "NAMA_KELAS": "MASJID ISLAMIC CENTRE",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1673",
+    "NAMA": "Muhammad Jibran Ar Rayyan",
+    "ID_KELAS": "3D",
+    "NAMA_KELAS": "MASJID ISLAMIC CENTRE",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1686",
+    "NAMA": "Naura Dzakira Annayla",
+    "ID_KELAS": "3D",
+    "NAMA_KELAS": "MASJID ISLAMIC CENTRE",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1949",
+    "NAMA": "Nayla Ainun Humaira",
+    "ID_KELAS": "3D",
+    "NAMA_KELAS": "MASJID ISLAMIC CENTRE",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1799",
+    "NAMA": "Rafa Aufa Athallah",
+    "ID_KELAS": "3D",
+    "NAMA_KELAS": "MASJID ISLAMIC CENTRE",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1690",
+    "NAMA": "Rania Mazaya Farkhandah",
+    "ID_KELAS": "3D",
+    "NAMA_KELAS": "MASJID ISLAMIC CENTRE",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1695",
+    "NAMA": "Salsabila Zukhrufi Firdaus",
+    "ID_KELAS": "3D",
+    "NAMA_KELAS": "MASJID ISLAMIC CENTRE",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1484",
+    "NAMA": "Abdullah Fastaru Hilmy",
+    "ID_KELAS": "4A",
+    "NAMA_KELAS": "MASJID RAYA MAKASSAR",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1495",
+    "NAMA": "Alfa Syauqi Alaika Muhammad",
+    "ID_KELAS": "4A",
+    "NAMA_KELAS": "MASJID RAYA MAKASSAR",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1500",
+    "NAMA": "Anindita Syafia Mahardika",
+    "ID_KELAS": "4A",
+    "NAMA_KELAS": "MASJID RAYA MAKASSAR",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1503",
+    "NAMA": "Aqila Azka Adil",
+    "ID_KELAS": "4A",
+    "NAMA_KELAS": "MASJID RAYA MAKASSAR",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1507",
+    "NAMA": "Arsya Zarin Ashalina",
+    "ID_KELAS": "4A",
+    "NAMA_KELAS": "MASJID RAYA MAKASSAR",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1511",
+    "NAMA": "Athaya Falah Adzim",
+    "ID_KELAS": "4A",
+    "NAMA_KELAS": "MASJID RAYA MAKASSAR",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1512",
+    "NAMA": "Atiiqah Zahraa Zhaafirah Saksomo",
+    "ID_KELAS": "4A",
+    "NAMA_KELAS": "MASJID RAYA MAKASSAR",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1513",
+    "NAMA": "Azza Raina Larasati",
+    "ID_KELAS": "4A",
+    "NAMA_KELAS": "MASJID RAYA MAKASSAR",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1525",
+    "NAMA": "Dzakiyah Ghina Rachma",
+    "ID_KELAS": "4A",
+    "NAMA_KELAS": "MASJID RAYA MAKASSAR",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1535",
+    "NAMA": "Hafiza Zakia Mumtaza",
+    "ID_KELAS": "4A",
+    "NAMA_KELAS": "MASJID RAYA MAKASSAR",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1537",
+    "NAMA": "Hisyaam Al Maisan Zhafar",
+    "ID_KELAS": "4A",
+    "NAMA_KELAS": "MASJID RAYA MAKASSAR",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1541",
+    "NAMA": "Kennzie Sofyan Pratama",
+    "ID_KELAS": "4A",
+    "NAMA_KELAS": "MASJID RAYA MAKASSAR",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1543",
+    "NAMA": "Letisha Adriana Viano",
+    "ID_KELAS": "4A",
+    "NAMA_KELAS": "MASJID RAYA MAKASSAR",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1545",
+    "NAMA": "M Reyndra Manggala Bimasakti",
+    "ID_KELAS": "4A",
+    "NAMA_KELAS": "MASJID RAYA MAKASSAR",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1550",
+    "NAMA": "Muhamad Al-Fatih Kusumo Subagyo",
+    "ID_KELAS": "4A",
+    "NAMA_KELAS": "MASJID RAYA MAKASSAR",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1555",
+    "NAMA": "Muhammad Aufar Mubarak",
+    "ID_KELAS": "4A",
+    "NAMA_KELAS": "MASJID RAYA MAKASSAR",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1560",
+    "NAMA": "Nabila Adele Savana",
+    "ID_KELAS": "4A",
+    "NAMA_KELAS": "MASJID RAYA MAKASSAR",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1561",
+    "NAMA": "Nabila Qaireen Almaira Zahra",
+    "ID_KELAS": "4A",
+    "NAMA_KELAS": "MASJID RAYA MAKASSAR",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1564",
+    "NAMA": "Nadira Ramadina",
+    "ID_KELAS": "4A",
+    "NAMA_KELAS": "MASJID RAYA MAKASSAR",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1565",
+    "NAMA": "Najwa Khadijah Karimah",
+    "ID_KELAS": "4A",
+    "NAMA_KELAS": "MASJID RAYA MAKASSAR",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1573",
+    "NAMA": "Queena Sita Putri Nurhadhy",
+    "ID_KELAS": "4A",
+    "NAMA_KELAS": "MASJID RAYA MAKASSAR",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1575",
+    "NAMA": "Queisya Alula Latisha Hananta",
+    "ID_KELAS": "4A",
+    "NAMA_KELAS": "MASJID RAYA MAKASSAR",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1576",
+    "NAMA": "Quinno Alfarizqi Pratama",
+    "ID_KELAS": "4A",
+    "NAMA_KELAS": "MASJID RAYA MAKASSAR",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1581",
+    "NAMA": "Rakha Sahl Zada",
+    "ID_KELAS": "4A",
+    "NAMA_KELAS": "MASJID RAYA MAKASSAR",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1584",
+    "NAMA": "Ratuayu Farzana Mahmudah",
+    "ID_KELAS": "4A",
+    "NAMA_KELAS": "MASJID RAYA MAKASSAR",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1587",
+    "NAMA": "Senandung Lembayung Senja",
+    "ID_KELAS": "4A",
+    "NAMA_KELAS": "MASJID RAYA MAKASSAR",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1592",
+    "NAMA": "Tsabita Aqila Putriayra",
+    "ID_KELAS": "4A",
+    "NAMA_KELAS": "MASJID RAYA MAKASSAR",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1598",
+    "NAMA": "Zivanna Kioko",
+    "ID_KELAS": "4A",
+    "NAMA_KELAS": "MASJID RAYA MAKASSAR",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1489",
+    "NAMA": "Ahmad Thoriq Alzanabi",
+    "ID_KELAS": "4B",
+    "NAMA_KELAS": "MASJID AGUNG KAURA UMMA",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1823",
+    "NAMA": "Aiko Shadrina Zhufairah",
+    "ID_KELAS": "4B",
+    "NAMA_KELAS": "MASJID AGUNG KAURA UMMA",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1491",
+    "NAMA": "Aisha Khairani Dewi",
+    "ID_KELAS": "4B",
+    "NAMA_KELAS": "MASJID AGUNG KAURA UMMA",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1496",
+    "NAMA": "Allea Azqiara Ramza",
+    "ID_KELAS": "4B",
+    "NAMA_KELAS": "MASJID AGUNG KAURA UMMA",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1501",
+    "NAMA": "Aptanta Ristiawan Cahyadi",
+    "ID_KELAS": "4B",
+    "NAMA_KELAS": "MASJID AGUNG KAURA UMMA",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1502",
+    "NAMA": "Aqila Adeeva Khanza",
+    "ID_KELAS": "4B",
+    "NAMA_KELAS": "MASJID AGUNG KAURA UMMA",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1505",
+    "NAMA": "Aqila Putri Azzahra",
+    "ID_KELAS": "4B",
+    "NAMA_KELAS": "MASJID AGUNG KAURA UMMA",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1515",
+    "NAMA": "Azzalea Kianna Akhsan",
+    "ID_KELAS": "4B",
+    "NAMA_KELAS": "MASJID AGUNG KAURA UMMA",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1516",
+    "NAMA": "Banyoe Ararya Putra Risdian",
+    "ID_KELAS": "4B",
+    "NAMA_KELAS": "MASJID AGUNG KAURA UMMA",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1517",
+    "NAMA": "Bashar Mahesa Emir Akhmad",
+    "ID_KELAS": "4B",
+    "NAMA_KELAS": "MASJID AGUNG KAURA UMMA",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1518",
+    "NAMA": "Benjani Ruella Nalani",
+    "ID_KELAS": "4B",
+    "NAMA_KELAS": "MASJID AGUNG KAURA UMMA",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1520",
+    "NAMA": "Brian Ghani Ramadhan",
+    "ID_KELAS": "4B",
+    "NAMA_KELAS": "MASJID AGUNG KAURA UMMA",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1528",
+    "NAMA": "Fadhil Anwar Kurniawan",
+    "ID_KELAS": "4B",
+    "NAMA_KELAS": "MASJID AGUNG KAURA UMMA",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1529",
+    "NAMA": "Faiz Akhmad Al-Ghazali",
+    "ID_KELAS": "4B",
+    "NAMA_KELAS": "MASJID AGUNG KAURA UMMA",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1531",
+    "NAMA": "Filza Kamila Azizah",
+    "ID_KELAS": "4B",
+    "NAMA_KELAS": "MASJID AGUNG KAURA UMMA",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1540",
+    "NAMA": "Keisha Azzahra Arsya Sugiharto",
+    "ID_KELAS": "4B",
+    "NAMA_KELAS": "MASJID AGUNG KAURA UMMA",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1549",
+    "NAMA": "Mochammad Dzakwan Zahran Muttaqin",
+    "ID_KELAS": "4B",
+    "NAMA_KELAS": "MASJID AGUNG KAURA UMMA",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1552",
+    "NAMA": "Muhammad Ali Arta",
+    "ID_KELAS": "4B",
+    "NAMA_KELAS": "MASJID AGUNG KAURA UMMA",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1553",
+    "NAMA": "Muhammad Alvaro",
+    "ID_KELAS": "4B",
+    "NAMA_KELAS": "MASJID AGUNG KAURA UMMA",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1554",
+    "NAMA": "Muhammad Athar Al Naja",
+    "ID_KELAS": "4B",
+    "NAMA_KELAS": "MASJID AGUNG KAURA UMMA",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1556",
+    "NAMA": "Muhammad Danish Ahza Ramadhan",
+    "ID_KELAS": "4B",
+    "NAMA_KELAS": "MASJID AGUNG KAURA UMMA",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1706",
+    "NAMA": "Naveda Alesha Rifaya",
+    "ID_KELAS": "4B",
+    "NAMA_KELAS": "MASJID AGUNG KAURA UMMA",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1569",
+    "NAMA": "Nora Salma Elsalsabila",
+    "ID_KELAS": "4B",
+    "NAMA_KELAS": "MASJID AGUNG KAURA UMMA",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1574",
+    "NAMA": "Queensha Azalea Khanza Susilo",
+    "ID_KELAS": "4B",
+    "NAMA_KELAS": "MASJID AGUNG KAURA UMMA",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1578",
+    "NAMA": "Rahajeng Aira Prawiradita",
+    "ID_KELAS": "4B",
+    "NAMA_KELAS": "MASJID AGUNG KAURA UMMA",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1583",
+    "NAMA": "Rasya Muhammad Athaya",
+    "ID_KELAS": "4B",
+    "NAMA_KELAS": "MASJID AGUNG KAURA UMMA",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1595",
+    "NAMA": "Zahira Humayra Maron",
+    "ID_KELAS": "4B",
+    "NAMA_KELAS": "MASJID AGUNG KAURA UMMA",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1708",
+    "NAMA": "Zayin Faqiih Afif",
+    "ID_KELAS": "4B",
+    "NAMA_KELAS": "MASJID AGUNG KAURA UMMA",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1494",
+    "NAMA": "Alden Haidar Kenda",
+    "ID_KELAS": "4C",
+    "NAMA_KELAS": "MASJID AGUNG AWWAL FATKHUL MUBIYIN",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1497",
+    "NAMA": "Allysia Hana Mori",
+    "ID_KELAS": "4C",
+    "NAMA_KELAS": "MASJID AGUNG AWWAL FATKHUL MUBIYIN",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1504",
+    "NAMA": "Aqila Kamaliya Hayunugraha",
+    "ID_KELAS": "4C",
+    "NAMA_KELAS": "MASJID AGUNG AWWAL FATKHUL MUBIYIN",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1506",
+    "NAMA": "Aradhea Feristha Nabila",
+    "ID_KELAS": "4C",
+    "NAMA_KELAS": "MASJID AGUNG AWWAL FATKHUL MUBIYIN",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1508",
+    "NAMA": "Arte Hadi Lesmana",
+    "ID_KELAS": "4C",
+    "NAMA_KELAS": "MASJID AGUNG AWWAL FATKHUL MUBIYIN",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1510",
+    "NAMA": "Atfa Kulthoum Al Labiba",
+    "ID_KELAS": "4C",
+    "NAMA_KELAS": "MASJID AGUNG AWWAL FATKHUL MUBIYIN",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1519",
+    "NAMA": "Bianca Salsabilla Azzahra",
+    "ID_KELAS": "4C",
+    "NAMA_KELAS": "MASJID AGUNG AWWAL FATKHUL MUBIYIN",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1521",
+    "NAMA": "Carissa Almira Priandika",
+    "ID_KELAS": "4C",
+    "NAMA_KELAS": "MASJID AGUNG AWWAL FATKHUL MUBIYIN",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1524",
+    "NAMA": "Dzakira Meysha Setyawan",
+    "ID_KELAS": "4C",
+    "NAMA_KELAS": "MASJID AGUNG AWWAL FATKHUL MUBIYIN",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1950",
+    "NAMA": "Fatih Ammar Rohiman",
+    "ID_KELAS": "4C",
+    "NAMA_KELAS": "MASJID AGUNG AWWAL FATKHUL MUBIYIN",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1534",
+    "NAMA": "Habibi El Rahman",
+    "ID_KELAS": "4C",
+    "NAMA_KELAS": "MASJID AGUNG AWWAL FATKHUL MUBIYIN",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1539",
+    "NAMA": "Karna Ferre Romadhony",
+    "ID_KELAS": "4C",
+    "NAMA_KELAS": "MASJID AGUNG AWWAL FATKHUL MUBIYIN",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1542",
+    "NAMA": "Kiana Nashita Sakhi",
+    "ID_KELAS": "4C",
+    "NAMA_KELAS": "MASJID AGUNG AWWAL FATKHUL MUBIYIN",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1544",
+    "NAMA": "Lovelia Sapphirenna Setiawan",
+    "ID_KELAS": "4C",
+    "NAMA_KELAS": "MASJID AGUNG AWWAL FATKHUL MUBIYIN",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1547",
+    "NAMA": "Mahira Aisha Rofi Putri",
+    "ID_KELAS": "4C",
+    "NAMA_KELAS": "MASJID AGUNG AWWAL FATKHUL MUBIYIN",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1548",
+    "NAMA": "Maulana Nurdaffa Aydin Wahid",
+    "ID_KELAS": "4C",
+    "NAMA_KELAS": "MASJID AGUNG AWWAL FATKHUL MUBIYIN",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1562",
+    "NAMA": "Nadhifa Khansa Abidah",
+    "ID_KELAS": "4C",
+    "NAMA_KELAS": "MASJID AGUNG AWWAL FATKHUL MUBIYIN",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1566",
+    "NAMA": "Namira Abyan Jauhara",
+    "ID_KELAS": "4C",
+    "NAMA_KELAS": "MASJID AGUNG AWWAL FATKHUL MUBIYIN",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1568",
+    "NAMA": "Noah Erawan Putra",
+    "ID_KELAS": "4C",
+    "NAMA_KELAS": "MASJID AGUNG AWWAL FATKHUL MUBIYIN",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1570",
+    "NAMA": "Nuraisyah Kamila",
+    "ID_KELAS": "4C",
+    "NAMA_KELAS": "MASJID AGUNG AWWAL FATKHUL MUBIYIN",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1572",
+    "NAMA": "Qonita Sidqiyya Syamsudin",
+    "ID_KELAS": "4C",
+    "NAMA_KELAS": "MASJID AGUNG AWWAL FATKHUL MUBIYIN",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1577",
+    "NAMA": "Radithya Nasyief",
+    "ID_KELAS": "4C",
+    "NAMA_KELAS": "MASJID AGUNG AWWAL FATKHUL MUBIYIN",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1582",
+    "NAMA": "Rania Shafa Adzkamillah",
+    "ID_KELAS": "4C",
+    "NAMA_KELAS": "MASJID AGUNG AWWAL FATKHUL MUBIYIN",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1585",
+    "NAMA": "Rayna Sahla Hayatullail",
+    "ID_KELAS": "4C",
+    "NAMA_KELAS": "MASJID AGUNG AWWAL FATKHUL MUBIYIN",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1589",
+    "NAMA": "Sunan Ahmad Ramadhan",
+    "ID_KELAS": "4C",
+    "NAMA_KELAS": "MASJID AGUNG AWWAL FATKHUL MUBIYIN",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1593",
+    "NAMA": "Wisnuwardhana Radjasa Amurwabhumi El Munir",
+    "ID_KELAS": "4C",
+    "NAMA_KELAS": "MASJID AGUNG AWWAL FATKHUL MUBIYIN",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1594",
+    "NAMA": "Zahid Zubair",
+    "ID_KELAS": "4C",
+    "NAMA_KELAS": "MASJID AGUNG AWWAL FATKHUL MUBIYIN",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1597",
+    "NAMA": "Zivana Hilla Al Aufrida Purba",
+    "ID_KELAS": "4C",
+    "NAMA_KELAS": "MASJID AGUNG AWWAL FATKHUL MUBIYIN",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1485",
+    "NAMA": "Abrisham Danish Arsakha",
+    "ID_KELAS": "4D",
+    "NAMA_KELAS": "MASJID BAITUL MAKMUR",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1486",
+    "NAMA": "Ahmad Avin Kayyisi",
+    "ID_KELAS": "4D",
+    "NAMA_KELAS": "MASJID BAITUL MAKMUR",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1487",
+    "NAMA": "Ahmad Nabil Al Akbar Amirullah Asy Syafi'I",
+    "ID_KELAS": "4D",
+    "NAMA_KELAS": "MASJID BAITUL MAKMUR",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1490",
+    "NAMA": "Aisar Kenrich Borneo",
+    "ID_KELAS": "4D",
+    "NAMA_KELAS": "MASJID BAITUL MAKMUR",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1613",
+    "NAMA": "Aisha Farah",
+    "ID_KELAS": "4D",
+    "NAMA_KELAS": "MASJID BAITUL MAKMUR",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1492",
+    "NAMA": "Aisyah Hadzkya Shakeena",
+    "ID_KELAS": "4D",
+    "NAMA_KELAS": "MASJID BAITUL MAKMUR",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1493",
+    "NAMA": "Aisyah Putri Kamila",
+    "ID_KELAS": "4D",
+    "NAMA_KELAS": "MASJID BAITUL MAKMUR",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1498",
+    "NAMA": "Amira Hilwah Maulidyah Nur",
+    "ID_KELAS": "4D",
+    "NAMA_KELAS": "MASJID BAITUL MAKMUR",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1499",
+    "NAMA": "Andra Prasetya Wiryananta",
+    "ID_KELAS": "4D",
+    "NAMA_KELAS": "MASJID BAITUL MAKMUR",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1509",
+    "NAMA": "Asyifa Kaysha Almayra",
+    "ID_KELAS": "4D",
+    "NAMA_KELAS": "MASJID BAITUL MAKMUR",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1514",
+    "NAMA": "Azzahra Novrinadia Kharisma",
+    "ID_KELAS": "4D",
+    "NAMA_KELAS": "MASJID BAITUL MAKMUR",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1522",
+    "NAMA": "Daffa Ihsan Alvaro",
+    "ID_KELAS": "4D",
+    "NAMA_KELAS": "MASJID BAITUL MAKMUR",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1523",
+    "NAMA": "Dira Astagina Artanti",
+    "ID_KELAS": "4D",
+    "NAMA_KELAS": "MASJID BAITUL MAKMUR",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1530",
+    "NAMA": "Febrianne Illiyin Sakhi",
+    "ID_KELAS": "4D",
+    "NAMA_KELAS": "MASJID BAITUL MAKMUR",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1532",
+    "NAMA": "Gayatri Putri Sumariyati",
+    "ID_KELAS": "4D",
+    "NAMA_KELAS": "MASJID BAITUL MAKMUR",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1536",
+    "NAMA": "Halwa Majdah Izzah",
+    "ID_KELAS": "4D",
+    "NAMA_KELAS": "MASJID BAITUL MAKMUR",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1538",
+    "NAMA": "Jihan Nur Khumairo Az Zahra",
+    "ID_KELAS": "4D",
+    "NAMA_KELAS": "MASJID BAITUL MAKMUR",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1546",
+    "NAMA": "Mahesa Wibawa Putra",
+    "ID_KELAS": "4D",
+    "NAMA_KELAS": "MASJID BAITUL MAKMUR",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1551",
+    "NAMA": "Muhammad Ali Arsyad",
+    "ID_KELAS": "4D",
+    "NAMA_KELAS": "MASJID BAITUL MAKMUR",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1557",
+    "NAMA": "Muhammad El Azzam Abidin",
+    "ID_KELAS": "4D",
+    "NAMA_KELAS": "MASJID BAITUL MAKMUR",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1558",
+    "NAMA": "Muhammad Fabian Rasya Pradipta",
+    "ID_KELAS": "4D",
+    "NAMA_KELAS": "MASJID BAITUL MAKMUR",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1559",
+    "NAMA": "Muhammad Ivan Azka Athallah",
+    "ID_KELAS": "4D",
+    "NAMA_KELAS": "MASJID BAITUL MAKMUR",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1571",
+    "NAMA": "Qimara Princess Zirka Hutabarat",
+    "ID_KELAS": "4D",
+    "NAMA_KELAS": "MASJID BAITUL MAKMUR",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1579",
+    "NAMA": "Raisha Putri Prasetya",
+    "ID_KELAS": "4D",
+    "NAMA_KELAS": "MASJID BAITUL MAKMUR",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1586",
+    "NAMA": "Razqa Atharayandra",
+    "ID_KELAS": "4D",
+    "NAMA_KELAS": "MASJID BAITUL MAKMUR",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1591",
+    "NAMA": "Syakira Khoirunnisa",
+    "ID_KELAS": "4D",
+    "NAMA_KELAS": "MASJID BAITUL MAKMUR",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1596",
+    "NAMA": "Zahirah Shanum Pua Jiwa",
+    "ID_KELAS": "4D",
+    "NAMA_KELAS": "MASJID BAITUL MAKMUR",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1369",
+    "NAMA": "Amira Kamilia",
+    "ID_KELAS": "5A",
+    "NAMA_KELAS": "MASJID AL HIDAYAH",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1372",
+    "NAMA": "Anggito Abimanyu",
+    "ID_KELAS": "5A",
+    "NAMA_KELAS": "MASJID AL HIDAYAH",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1374",
+    "NAMA": "Annisa Kayyisa Atqeeya",
+    "ID_KELAS": "5A",
+    "NAMA_KELAS": "MASJID AL HIDAYAH",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1382",
+    "NAMA": "Athar Shah Majid",
+    "ID_KELAS": "5A",
+    "NAMA_KELAS": "MASJID AL HIDAYAH",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1387",
+    "NAMA": "Bintang Altaf Adabi",
+    "ID_KELAS": "5A",
+    "NAMA_KELAS": "MASJID AL HIDAYAH",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1391",
+    "NAMA": "Danish Mirza Arkananta",
+    "ID_KELAS": "5A",
+    "NAMA_KELAS": "MASJID AL HIDAYAH",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1392",
+    "NAMA": "Deandra Shripaddi",
+    "ID_KELAS": "5A",
+    "NAMA_KELAS": "MASJID AL HIDAYAH",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1394",
+    "NAMA": "Dyandra Khansa Hamidah",
+    "ID_KELAS": "5A",
+    "NAMA_KELAS": "MASJID AL HIDAYAH",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1398",
+    "NAMA": "Fadhil Ahmad Ranandika",
+    "ID_KELAS": "5A",
+    "NAMA_KELAS": "MASJID AL HIDAYAH",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1955",
+    "NAMA": "Farhano Adria Pasha",
+    "ID_KELAS": "5A",
+    "NAMA_KELAS": "MASJID AL HIDAYAH",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1404",
+    "NAMA": "Hisyam Nismara Sanyoto",
+    "ID_KELAS": "5A",
+    "NAMA_KELAS": "MASJID AL HIDAYAH",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1405",
+    "NAMA": "Ibrahim Janitra Mumtaz",
+    "ID_KELAS": "5A",
+    "NAMA_KELAS": "MASJID AL HIDAYAH",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1407",
+    "NAMA": "Ilyasa Goeh Capillary",
+    "ID_KELAS": "5A",
+    "NAMA_KELAS": "MASJID AL HIDAYAH",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1409",
+    "NAMA": "Kaendra Haryaka Mahasura",
+    "ID_KELAS": "5A",
+    "NAMA_KELAS": "MASJID AL HIDAYAH",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1413",
+    "NAMA": "Maula Akmal Maghribi Al Fatih",
+    "ID_KELAS": "5A",
+    "NAMA_KELAS": "MASJID AL HIDAYAH",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1419",
+    "NAMA": "Muchammad Jeevan Kusuma Akbar",
+    "ID_KELAS": "5A",
+    "NAMA_KELAS": "MASJID AL HIDAYAH",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1421",
+    "NAMA": "Muhammad Adi Satria",
+    "ID_KELAS": "5A",
+    "NAMA_KELAS": "MASJID AL HIDAYAH",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1425",
+    "NAMA": "Muhammad Alwi Suprayogi",
+    "ID_KELAS": "5A",
+    "NAMA_KELAS": "MASJID AL HIDAYAH",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1427",
+    "NAMA": "Muhammad Ayman Raqilla Rauhillah",
+    "ID_KELAS": "5A",
+    "NAMA_KELAS": "MASJID AL HIDAYAH",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1434",
+    "NAMA": "Muhammad Rasyid Arie Wicaksono",
+    "ID_KELAS": "5A",
+    "NAMA_KELAS": "MASJID AL HIDAYAH",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1436",
+    "NAMA": "Nadzira Qaireen El Hadian",
+    "ID_KELAS": "5A",
+    "NAMA_KELAS": "MASJID AL HIDAYAH",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1441",
+    "NAMA": "Naufal Cakra Pandya",
+    "ID_KELAS": "5A",
+    "NAMA_KELAS": "MASJID AL HIDAYAH",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1443",
+    "NAMA": "Pandu Ganesha Dewanata",
+    "ID_KELAS": "5A",
+    "NAMA_KELAS": "MASJID AL HIDAYAH",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1447",
+    "NAMA": "Raissa Kyla Ivena",
+    "ID_KELAS": "5A",
+    "NAMA_KELAS": "MASJID AL HIDAYAH",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1448",
+    "NAMA": "Rakhshandrina Nayla Asy-Syifa",
+    "ID_KELAS": "5A",
+    "NAMA_KELAS": "MASJID AL HIDAYAH",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1457",
+    "NAMA": "Safina Ranti Putri Oktavia",
+    "ID_KELAS": "5A",
+    "NAMA_KELAS": "MASJID AL HIDAYAH",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1461",
+    "NAMA": "Viny Azalea Andriyanto",
+    "ID_KELAS": "5A",
+    "NAMA_KELAS": "MASJID AL HIDAYAH",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1710",
+    "NAMA": "Zio Athalla Tsaqib Oktiawan",
+    "ID_KELAS": "5A",
+    "NAMA_KELAS": "MASJID AL HIDAYAH",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1360",
+    "NAMA": "Al Farabi Tsaqiif Mahbub",
+    "ID_KELAS": "5B",
+    "NAMA_KELAS": "MASJID RAYA HUBBUL WATON",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1705",
+    "NAMA": "Aliya Khairunnisa Lasetiyo",
+    "ID_KELAS": "5B",
+    "NAMA_KELAS": "MASJID RAYA HUBBUL WATON",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1367",
+    "NAMA": "Alvino Anggara Yudha",
+    "ID_KELAS": "5B",
+    "NAMA_KELAS": "MASJID RAYA HUBBUL WATON",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1371",
+    "NAMA": "Amirah Putri Diana",
+    "ID_KELAS": "5B",
+    "NAMA_KELAS": "MASJID RAYA HUBBUL WATON",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1373",
+    "NAMA": "Anindya Sadira",
+    "ID_KELAS": "5B",
+    "NAMA_KELAS": "MASJID RAYA HUBBUL WATON",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1375",
+    "NAMA": "Aqila Fairuzzafira Qudsia",
+    "ID_KELAS": "5B",
+    "NAMA_KELAS": "MASJID RAYA HUBBUL WATON",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1383",
+    "NAMA": "Azarine Leandra Az-Zahrah",
+    "ID_KELAS": "5B",
+    "NAMA_KELAS": "MASJID RAYA HUBBUL WATON",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1385",
+    "NAMA": "Bhatara Yuka Arshavin",
+    "ID_KELAS": "5B",
+    "NAMA_KELAS": "MASJID RAYA HUBBUL WATON",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1388",
+    "NAMA": "Bregas Muhtadin",
+    "ID_KELAS": "5B",
+    "NAMA_KELAS": "MASJID RAYA HUBBUL WATON",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1390",
+    "NAMA": "Danendra Alfaqoba",
+    "ID_KELAS": "5B",
+    "NAMA_KELAS": "MASJID RAYA HUBBUL WATON",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1403",
+    "NAMA": "Hideo Kazama Basith Dafinsya",
+    "ID_KELAS": "5B",
+    "NAMA_KELAS": "MASJID RAYA HUBBUL WATON",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1951",
+    "NAMA": "Ibni Dzaky Habibie",
+    "ID_KELAS": "5B",
+    "NAMA_KELAS": "MASJID RAYA HUBBUL WATON",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1406",
+    "NAMA": "Ibrahim Rizqi Setyadi",
+    "ID_KELAS": "5B",
+    "NAMA_KELAS": "MASJID RAYA HUBBUL WATON",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1416",
+    "NAMA": "Mohammad Andra Pradipta",
+    "ID_KELAS": "5B",
+    "NAMA_KELAS": "MASJID RAYA HUBBUL WATON",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1417",
+    "NAMA": "Mohammad Azka Nikmaillah",
+    "ID_KELAS": "5B",
+    "NAMA_KELAS": "MASJID RAYA HUBBUL WATON",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1420",
+    "NAMA": "Muhamad Zaki Firdaus",
+    "ID_KELAS": "5B",
+    "NAMA_KELAS": "MASJID RAYA HUBBUL WATON",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1424",
+    "NAMA": "Muhammad Ali Abdul Ghani",
+    "ID_KELAS": "5B",
+    "NAMA_KELAS": "MASJID RAYA HUBBUL WATON",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1429",
+    "NAMA": "Muhammad Fazli",
+    "ID_KELAS": "5B",
+    "NAMA_KELAS": "MASJID RAYA HUBBUL WATON",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1430",
+    "NAMA": "Muhammad Fikri Zakaria",
+    "ID_KELAS": "5B",
+    "NAMA_KELAS": "MASJID RAYA HUBBUL WATON",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1432",
+    "NAMA": "Muhammad Ilham Habibie",
+    "ID_KELAS": "5B",
+    "NAMA_KELAS": "MASJID RAYA HUBBUL WATON",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1437",
+    "NAMA": "Nagata Muhammad Radhitya",
+    "ID_KELAS": "5B",
+    "NAMA_KELAS": "MASJID RAYA HUBBUL WATON",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1438",
+    "NAMA": "Naomi Alifa Shabria",
+    "ID_KELAS": "5B",
+    "NAMA_KELAS": "MASJID RAYA HUBBUL WATON",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1444",
+    "NAMA": "Parisa Dewanti Kusuma N.",
+    "ID_KELAS": "5B",
+    "NAMA_KELAS": "MASJID RAYA HUBBUL WATON",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1453",
+    "NAMA": "Revandika Aidan Pratama",
+    "ID_KELAS": "5B",
+    "NAMA_KELAS": "MASJID RAYA HUBBUL WATON",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1454",
+    "NAMA": "Reydivya Hariri Syakira Majidah",
+    "ID_KELAS": "5B",
+    "NAMA_KELAS": "MASJID RAYA HUBBUL WATON",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1455",
+    "NAMA": "Rumandu Java Dwipa",
+    "ID_KELAS": "5B",
+    "NAMA_KELAS": "MASJID RAYA HUBBUL WATON",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1458",
+    "NAMA": "Sakya Dhiwa Adyatma",
+    "ID_KELAS": "5B",
+    "NAMA_KELAS": "MASJID RAYA HUBBUL WATON",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1460",
+    "NAMA": "Sheikha Alzena Callia Priswarno",
+    "ID_KELAS": "5B",
+    "NAMA_KELAS": "MASJID RAYA HUBBUL WATON",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1353",
+    "NAMA": "Abrar Ibrahim Primazaky",
+    "ID_KELAS": "5C",
+    "NAMA_KELAS": "MASJID AGUNG BAITUL QODIM",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1356",
+    "NAMA": "Aisya Arifa Rusyda",
+    "ID_KELAS": "5C",
+    "NAMA_KELAS": "MASJID AGUNG BAITUL QODIM",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1361",
+    "NAMA": "Aldemar Nararya Zahyr",
+    "ID_KELAS": "5C",
+    "NAMA_KELAS": "MASJID AGUNG BAITUL QODIM",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1363",
+    "NAMA": "Alia Zafirah Azzahra",
+    "ID_KELAS": "5C",
+    "NAMA_KELAS": "MASJID AGUNG BAITUL QODIM",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1364",
+    "NAMA": "Alina Chelsea Dianthia",
+    "ID_KELAS": "5C",
+    "NAMA_KELAS": "MASJID AGUNG BAITUL QODIM",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1365",
+    "NAMA": "Alisha Muthia Farasti",
+    "ID_KELAS": "5C",
+    "NAMA_KELAS": "MASJID AGUNG BAITUL QODIM",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1368",
+    "NAMA": "Alyuna Azimah Mayzura",
+    "ID_KELAS": "5C",
+    "NAMA_KELAS": "MASJID AGUNG BAITUL QODIM",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1370",
+    "NAMA": "Amira Khairana Indrapraja",
+    "ID_KELAS": "5C",
+    "NAMA_KELAS": "MASJID AGUNG BAITUL QODIM",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1378",
+    "NAMA": "Arsakha Altair Nurzadrian",
+    "ID_KELAS": "5C",
+    "NAMA_KELAS": "MASJID AGUNG BAITUL QODIM",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1381",
+    "NAMA": "Arya Raffi Kayana",
+    "ID_KELAS": "5C",
+    "NAMA_KELAS": "MASJID AGUNG BAITUL QODIM",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1397",
+    "NAMA": "Elissa Ripki Ramadhania",
+    "ID_KELAS": "5C",
+    "NAMA_KELAS": "MASJID AGUNG BAITUL QODIM",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1399",
+    "NAMA": "Fakhri Iksan Fadillah",
+    "ID_KELAS": "5C",
+    "NAMA_KELAS": "MASJID AGUNG BAITUL QODIM",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1401",
+    "NAMA": "Gafari Faeyza Hario",
+    "ID_KELAS": "5C",
+    "NAMA_KELAS": "MASJID AGUNG BAITUL QODIM",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1410",
+    "NAMA": "Kharis Ranendra Priandika",
+    "ID_KELAS": "5C",
+    "NAMA_KELAS": "MASJID AGUNG BAITUL QODIM",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1411",
+    "NAMA": "Levana Xaviera Aisha",
+    "ID_KELAS": "5C",
+    "NAMA_KELAS": "MASJID AGUNG BAITUL QODIM",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1657",
+    "NAMA": "Magizza Maleyka Mubina",
+    "ID_KELAS": "5C",
+    "NAMA_KELAS": "MASJID AGUNG BAITUL QODIM",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1414",
+    "NAMA": "Moch. Ithaf Dzawin Najabah Sy",
+    "ID_KELAS": "5C",
+    "NAMA_KELAS": "MASJID AGUNG BAITUL QODIM",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1418",
+    "NAMA": "Mohammad Hisyam Zahy Al Aisy",
+    "ID_KELAS": "5C",
+    "NAMA_KELAS": "MASJID AGUNG BAITUL QODIM",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1422",
+    "NAMA": "Muhammad Akmal Adhkiya",
+    "ID_KELAS": "5C",
+    "NAMA_KELAS": "MASJID AGUNG BAITUL QODIM",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1426",
+    "NAMA": "Muhammad Atmananda Permana",
+    "ID_KELAS": "5C",
+    "NAMA_KELAS": "MASJID AGUNG BAITUL QODIM",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1431",
+    "NAMA": "Muhammad Haydar Altamis",
+    "ID_KELAS": "5C",
+    "NAMA_KELAS": "MASJID AGUNG BAITUL QODIM",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1439",
+    "NAMA": "Narendra Khalafian Fajrin",
+    "ID_KELAS": "5C",
+    "NAMA_KELAS": "MASJID AGUNG BAITUL QODIM",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1442",
+    "NAMA": "Naufal Muhammad Dzaki",
+    "ID_KELAS": "5C",
+    "NAMA_KELAS": "MASJID AGUNG BAITUL QODIM",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1451",
+    "NAMA": "Rayyan Aufar Ramza",
+    "ID_KELAS": "5C",
+    "NAMA_KELAS": "MASJID AGUNG BAITUL QODIM",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1456",
+    "NAMA": "Safin Akhtar Galfari",
+    "ID_KELAS": "5C",
+    "NAMA_KELAS": "MASJID AGUNG BAITUL QODIM",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1459",
+    "NAMA": "Shailendra Athala Ramadhan",
+    "ID_KELAS": "5C",
+    "NAMA_KELAS": "MASJID AGUNG BAITUL QODIM",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1601",
+    "NAMA": "Ahmad Akhdan Radyan Putratama",
+    "ID_KELAS": "5D",
+    "NAMA_KELAS": "MASJID AGUNG NURUL HUDA",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1612",
+    "NAMA": "Aiko Nadhifa Anaya Hartanto",
+    "ID_KELAS": "5D",
+    "NAMA_KELAS": "MASJID AGUNG NURUL HUDA",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1358",
+    "NAMA": "Akhtar Alexi Pranaja",
+    "ID_KELAS": "5D",
+    "NAMA_KELAS": "MASJID AGUNG NURUL HUDA",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1359",
+    "NAMA": "Akmal Naufal Falah",
+    "ID_KELAS": "5D",
+    "NAMA_KELAS": "MASJID AGUNG NURUL HUDA",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1362",
+    "NAMA": "Aldino Sulaiman Zain",
+    "ID_KELAS": "5D",
+    "NAMA_KELAS": "MASJID AGUNG NURUL HUDA",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1366",
+    "NAMA": "Alvian Anggara Dharma",
+    "ID_KELAS": "5D",
+    "NAMA_KELAS": "MASJID AGUNG NURUL HUDA",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1952",
+    "NAMA": "Ameera Mutiara Savinna Indriyanti",
+    "ID_KELAS": "5D",
+    "NAMA_KELAS": "MASJID AGUNG NURUL HUDA",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1379",
+    "NAMA": "Arsyila Kidung Namira",
+    "ID_KELAS": "5D",
+    "NAMA_KELAS": "MASJID AGUNG NURUL HUDA",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1384",
+    "NAMA": "Azkadyna Qianzi Arasely",
+    "ID_KELAS": "5D",
+    "NAMA_KELAS": "MASJID AGUNG NURUL HUDA",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1389",
+    "NAMA": "Dahayu Azkia Fahrani",
+    "ID_KELAS": "5D",
+    "NAMA_KELAS": "MASJID AGUNG NURUL HUDA",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1393",
+    "NAMA": "Diamanta Aidan Mahdi",
+    "ID_KELAS": "5D",
+    "NAMA_KELAS": "MASJID AGUNG NURUL HUDA",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1395",
+    "NAMA": "Dylan Odelio Narda",
+    "ID_KELAS": "5D",
+    "NAMA_KELAS": "MASJID AGUNG NURUL HUDA",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1400",
+    "NAMA": "Farid Bimo Nugroho",
+    "ID_KELAS": "5D",
+    "NAMA_KELAS": "MASJID AGUNG NURUL HUDA",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1402",
+    "NAMA": "Ghani Kafabillah Rusydi",
+    "ID_KELAS": "5D",
+    "NAMA_KELAS": "MASJID AGUNG NURUL HUDA",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1408",
+    "NAMA": "Julia Rachmadani Raharjo",
+    "ID_KELAS": "5D",
+    "NAMA_KELAS": "MASJID AGUNG NURUL HUDA",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1423",
+    "NAMA": "Muhammad Alfaro Vincent Sanjaya",
+    "ID_KELAS": "5D",
+    "NAMA_KELAS": "MASJID AGUNG NURUL HUDA",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1428",
+    "NAMA": "Muhammad Daaris Azzuhri",
+    "ID_KELAS": "5D",
+    "NAMA_KELAS": "MASJID AGUNG NURUL HUDA",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1435",
+    "NAMA": "Muhammad Shadiq",
+    "ID_KELAS": "5D",
+    "NAMA_KELAS": "MASJID AGUNG NURUL HUDA",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1440",
+    "NAMA": "Nathan Fadhilah Haning",
+    "ID_KELAS": "5D",
+    "NAMA_KELAS": "MASJID AGUNG NURUL HUDA",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1445",
+    "NAMA": "Qataleya Shallen Rinaldo",
+    "ID_KELAS": "5D",
+    "NAMA_KELAS": "MASJID AGUNG NURUL HUDA",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1449",
+    "NAMA": "Raqilla Ammara Soelistianto",
+    "ID_KELAS": "5D",
+    "NAMA_KELAS": "MASJID AGUNG NURUL HUDA",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1450",
+    "NAMA": "Rasta Zia Wiraska",
+    "ID_KELAS": "5D",
+    "NAMA_KELAS": "MASJID AGUNG NURUL HUDA",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1452",
+    "NAMA": "Razzan Rasendriya Fata",
+    "ID_KELAS": "5D",
+    "NAMA_KELAS": "MASJID AGUNG NURUL HUDA",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1462",
+    "NAMA": "Wira Bagas Aryaguna",
+    "ID_KELAS": "5D",
+    "NAMA_KELAS": "MASJID AGUNG NURUL HUDA",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1463",
+    "NAMA": "Yasmine Zemma Ailaqeva Yuarta",
+    "ID_KELAS": "5D",
+    "NAMA_KELAS": "MASJID AGUNG NURUL HUDA",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1464",
+    "NAMA": "Zefiana Uzlifatul Jannah",
+    "ID_KELAS": "5D",
+    "NAMA_KELAS": "MASJID AGUNG NURUL HUDA",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1465",
+    "NAMA": "Zhafran Nabil Fauzi",
+    "ID_KELAS": "5D",
+    "NAMA_KELAS": "MASJID AGUNG NURUL HUDA",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1220",
+    "NAMA": "Adinda Najwa Pradina",
+    "ID_KELAS": "6A",
+    "NAMA_KELAS": "MASJID RAYA AL FATTAH",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1231",
+    "NAMA": "Amir Sulaiman",
+    "ID_KELAS": "6A",
+    "NAMA_KELAS": "MASJID RAYA AL FATTAH",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1243",
+    "NAMA": "Azarine Sadya",
+    "ID_KELAS": "6A",
+    "NAMA_KELAS": "MASJID RAYA AL FATTAH",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1248",
+    "NAMA": "Clarinta Bening Arrahmi",
+    "ID_KELAS": "6A",
+    "NAMA_KELAS": "MASJID RAYA AL FATTAH",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1264",
+    "NAMA": "Haura Insyiah Yasir",
+    "ID_KELAS": "6A",
+    "NAMA_KELAS": "MASJID RAYA AL FATTAH",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1272",
+    "NAMA": "Kenzie Rayhan Javas Niskala",
+    "ID_KELAS": "6A",
+    "NAMA_KELAS": "MASJID RAYA AL FATTAH",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1828",
+    "NAMA": "Kharisa Nurul Latifa",
+    "ID_KELAS": "6A",
+    "NAMA_KELAS": "MASJID RAYA AL FATTAH",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1274",
+    "NAMA": "Kiano Carlo Ararya Justice",
+    "ID_KELAS": "6A",
+    "NAMA_KELAS": "MASJID RAYA AL FATTAH",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1277",
+    "NAMA": "Layla Manza Zhafira",
+    "ID_KELAS": "6A",
+    "NAMA_KELAS": "MASJID RAYA AL FATTAH",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1279",
+    "NAMA": "Liana Zahra Prabowo",
+    "ID_KELAS": "6A",
+    "NAMA_KELAS": "MASJID RAYA AL FATTAH",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1280",
+    "NAMA": "M. Farel Rahmana Putra",
+    "ID_KELAS": "6A",
+    "NAMA_KELAS": "MASJID RAYA AL FATTAH",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1599",
+    "NAMA": "Muhammad Abdullah Masyhur",
+    "ID_KELAS": "6A",
+    "NAMA_KELAS": "MASJID RAYA AL FATTAH",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1285",
+    "NAMA": "Muhammad Affan Fairuz Shofi",
+    "ID_KELAS": "6A",
+    "NAMA_KELAS": "MASJID RAYA AL FATTAH",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1287",
+    "NAMA": "Muhammad Deni Afrizal Akbar M. Saleh",
+    "ID_KELAS": "6A",
+    "NAMA_KELAS": "MASJID RAYA AL FATTAH",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1293",
+    "NAMA": "Muhammad Haikal Azka",
+    "ID_KELAS": "6A",
+    "NAMA_KELAS": "MASJID RAYA AL FATTAH",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1299",
+    "NAMA": "Nabilla Alfarizqia Zhafira",
+    "ID_KELAS": "6A",
+    "NAMA_KELAS": "MASJID RAYA AL FATTAH",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1301",
+    "NAMA": "Nafila Rifda Khairunnisa",
+    "ID_KELAS": "6A",
+    "NAMA_KELAS": "MASJID RAYA AL FATTAH",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1302",
+    "NAMA": "Naila Rajwa Maritza",
+    "ID_KELAS": "6A",
+    "NAMA_KELAS": "MASJID RAYA AL FATTAH",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1305",
+    "NAMA": "Naufal Afkar Idian",
+    "ID_KELAS": "6A",
+    "NAMA_KELAS": "MASJID RAYA AL FATTAH",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1306",
+    "NAMA": "Naufal Alif Pramudya",
+    "ID_KELAS": "6A",
+    "NAMA_KELAS": "MASJID RAYA AL FATTAH",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1307",
+    "NAMA": "Naufal Nashwan Hamid Suwito",
+    "ID_KELAS": "6A",
+    "NAMA_KELAS": "MASJID RAYA AL FATTAH",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1309",
+    "NAMA": "Naura Khadijah Sasnita",
+    "ID_KELAS": "6A",
+    "NAMA_KELAS": "MASJID RAYA AL FATTAH",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1317",
+    "NAMA": "R. Dhavindra Athar Giffarel",
+    "ID_KELAS": "6A",
+    "NAMA_KELAS": "MASJID RAYA AL FATTAH",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1320",
+    "NAMA": "Rafan Diaz Putra Atmadie",
+    "ID_KELAS": "6A",
+    "NAMA_KELAS": "MASJID RAYA AL FATTAH",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1327",
+    "NAMA": "Sulthan Aqeel Al Firdaus",
+    "ID_KELAS": "6A",
+    "NAMA_KELAS": "MASJID RAYA AL FATTAH",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1330",
+    "NAMA": "Yumnaa Fegiesa Kinarian",
+    "ID_KELAS": "6A",
+    "NAMA_KELAS": "MASJID RAYA AL FATTAH",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1481",
+    "NAMA": "Zafira Erly Khairunnisa Salsabila",
+    "ID_KELAS": "6A",
+    "NAMA_KELAS": "MASJID RAYA AL FATTAH",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1222",
+    "NAMA": "Agam Kharisma Pramana",
+    "ID_KELAS": "6B",
+    "NAMA_KELAS": "MASJID AL MUNAWAR",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1232",
+    "NAMA": "Amira Edle Adnida Romadhoni",
+    "ID_KELAS": "6B",
+    "NAMA_KELAS": "MASJID AL MUNAWAR",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1238",
+    "NAMA": "Aswangga Pranadipta Poetra Dyandri",
+    "ID_KELAS": "6B",
+    "NAMA_KELAS": "MASJID AL MUNAWAR",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1242",
+    "NAMA": "Aura Aqidatul Izzah",
+    "ID_KELAS": "6B",
+    "NAMA_KELAS": "MASJID AL MUNAWAR",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1247",
+    "NAMA": "Calista Zhaafirah Sekar Putri",
+    "ID_KELAS": "6B",
+    "NAMA_KELAS": "MASJID AL MUNAWAR",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1250",
+    "NAMA": "Danadyaksa Anandito Kurniawan",
+    "ID_KELAS": "6B",
+    "NAMA_KELAS": "MASJID AL MUNAWAR",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1303",
+    "NAMA": "Naryamayasa Rajendra",
+    "ID_KELAS": "6B",
+    "NAMA_KELAS": "MASJID AL MUNAWAR",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1251",
+    "NAMA": "Danish Atharizz Arif",
+    "ID_KELAS": "6B",
+    "NAMA_KELAS": "MASJID AL MUNAWAR",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1255",
+    "NAMA": "Elysia Aurelia Kusuma Azaria",
+    "ID_KELAS": "6B",
+    "NAMA_KELAS": "MASJID AL MUNAWAR",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1258",
+    "NAMA": "Fatimah Aliyah",
+    "ID_KELAS": "6B",
+    "NAMA_KELAS": "MASJID AL MUNAWAR",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1259",
+    "NAMA": "Ghaisan Ibad Wisesa",
+    "ID_KELAS": "6B",
+    "NAMA_KELAS": "MASJID AL MUNAWAR",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1263",
+    "NAMA": "Haidaru Ramzi Arsya Sugiharto",
+    "ID_KELAS": "6B",
+    "NAMA_KELAS": "MASJID AL MUNAWAR",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1347",
+    "NAMA": "Laura Fitria Ferhanadya",
+    "ID_KELAS": "6B",
+    "NAMA_KELAS": "MASJID AL MUNAWAR",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1284",
+    "NAMA": "Muhammad Adrian Rafa Pradipta",
+    "ID_KELAS": "6B",
+    "NAMA_KELAS": "MASJID AL MUNAWAR",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1291",
+    "NAMA": "Muhammad Fastabiq Thariq Madjid",
+    "ID_KELAS": "6B",
+    "NAMA_KELAS": "MASJID AL MUNAWAR",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1294",
+    "NAMA": "Muhammad Nasrullah Al Rasyid",
+    "ID_KELAS": "6B",
+    "NAMA_KELAS": "MASJID AL MUNAWAR",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1298",
+    "NAMA": "Muhammad Salman Al Madani",
+    "ID_KELAS": "6B",
+    "NAMA_KELAS": "MASJID AL MUNAWAR",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1304",
+    "NAMA": "Nashwa Windriya Setyawan",
+    "ID_KELAS": "6B",
+    "NAMA_KELAS": "MASJID AL MUNAWAR",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1310",
+    "NAMA": "Naura Nabila Alhusna",
+    "ID_KELAS": "6B",
+    "NAMA_KELAS": "MASJID AL MUNAWAR",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1313",
+    "NAMA": "Nayla Syifa Azzahra Hariyadi",
+    "ID_KELAS": "6B",
+    "NAMA_KELAS": "MASJID AL MUNAWAR",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1314",
+    "NAMA": "Nazara Aulia Nafisa",
+    "ID_KELAS": "6B",
+    "NAMA_KELAS": "MASJID AL MUNAWAR",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1318",
+    "NAMA": "Radinka Kevan Airlangga",
+    "ID_KELAS": "6B",
+    "NAMA_KELAS": "MASJID AL MUNAWAR",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1480",
+    "NAMA": "Rannya Levin Azzahra",
+    "ID_KELAS": "6B",
+    "NAMA_KELAS": "MASJID AL MUNAWAR",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1323",
+    "NAMA": "Renatha Agmesti Kaysha",
+    "ID_KELAS": "6B",
+    "NAMA_KELAS": "MASJID AL MUNAWAR",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1324",
+    "NAMA": "Reyzhi Ibni Kaithami Prakoso",
+    "ID_KELAS": "6B",
+    "NAMA_KELAS": "MASJID AL MUNAWAR",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1325",
+    "NAMA": "Sausan Larasati Alarice",
+    "ID_KELAS": "6B",
+    "NAMA_KELAS": "MASJID AL MUNAWAR",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1331",
+    "NAMA": "Zaidan Zhafir Mubarak",
+    "ID_KELAS": "6B",
+    "NAMA_KELAS": "MASJID AL MUNAWAR",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1223",
+    "NAMA": "Ahmad Fadhil Yahya",
+    "ID_KELAS": "6C",
+    "NAMA_KELAS": "MASJID TUWA PATINBURAK ",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1718",
+    "NAMA": "Ahmad Fayyadh Hakky",
+    "ID_KELAS": "6C",
+    "NAMA_KELAS": "MASJID TUWA PATINBURAK ",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1227",
+    "NAMA": "Aisyah Rasyidah Arivianto",
+    "ID_KELAS": "6C",
+    "NAMA_KELAS": "MASJID TUWA PATINBURAK ",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1233",
+    "NAMA": "Anindhita Azalia Maheswari",
+    "ID_KELAS": "6C",
+    "NAMA_KELAS": "MASJID TUWA PATINBURAK ",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1241",
+    "NAMA": "Aulia Lathiva Irawati",
+    "ID_KELAS": "6C",
+    "NAMA_KELAS": "MASJID TUWA PATINBURAK ",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1245",
+    "NAMA": "Bagas Shandy Perdana Putra",
+    "ID_KELAS": "6C",
+    "NAMA_KELAS": "MASJID TUWA PATINBURAK ",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1249",
+    "NAMA": "Cyrusesa Einstein",
+    "ID_KELAS": "6C",
+    "NAMA_KELAS": "MASJID TUWA PATINBURAK ",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1260",
+    "NAMA": "Gweneth Keiko",
+    "ID_KELAS": "6C",
+    "NAMA_KELAS": "MASJID TUWA PATINBURAK ",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1261",
+    "NAMA": "Hafiza Salma",
+    "ID_KELAS": "6C",
+    "NAMA_KELAS": "MASJID TUWA PATINBURAK ",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1262",
+    "NAMA": "Haidar Irsyad",
+    "ID_KELAS": "6C",
+    "NAMA_KELAS": "MASJID TUWA PATINBURAK ",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1269",
+    "NAMA": "Keane I'Tisham Kurniawan",
+    "ID_KELAS": "6C",
+    "NAMA_KELAS": "MASJID TUWA PATINBURAK ",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1275",
+    "NAMA": "Kirana Namiah Yusti",
+    "ID_KELAS": "6C",
+    "NAMA_KELAS": "MASJID TUWA PATINBURAK ",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1281",
+    "NAMA": "Madinah Sofie Aqila Fitrah",
+    "ID_KELAS": "6C",
+    "NAMA_KELAS": "MASJID TUWA PATINBURAK ",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1282",
+    "NAMA": "Mirza Musyafa' Ridho Cahyono",
+    "ID_KELAS": "6C",
+    "NAMA_KELAS": "MASJID TUWA PATINBURAK ",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1479",
+    "NAMA": "Moza Clarissa Fiska",
+    "ID_KELAS": "6C",
+    "NAMA_KELAS": "MASJID TUWA PATINBURAK ",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1289",
+    "NAMA": "Muhammad Faqih Aqiela",
+    "ID_KELAS": "6C",
+    "NAMA_KELAS": "MASJID TUWA PATINBURAK ",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1290",
+    "NAMA": "Muhammad Faruq Mokhtar Rifa'I",
+    "ID_KELAS": "6C",
+    "NAMA_KELAS": "MASJID TUWA PATINBURAK ",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1295",
+    "NAMA": "Muhammad Rafi'Ul Azzam",
+    "ID_KELAS": "6C",
+    "NAMA_KELAS": "MASJID TUWA PATINBURAK ",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1296",
+    "NAMA": "Muhammad Randy Pratama",
+    "ID_KELAS": "6C",
+    "NAMA_KELAS": "MASJID TUWA PATINBURAK ",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1308",
+    "NAMA": "Naura Azara Salsabila",
+    "ID_KELAS": "6C",
+    "NAMA_KELAS": "MASJID TUWA PATINBURAK ",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1316",
+    "NAMA": "Pratista Damarizky",
+    "ID_KELAS": "6C",
+    "NAMA_KELAS": "MASJID TUWA PATINBURAK ",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1321",
+    "NAMA": "Rafiandra Ihsan Haqiqi",
+    "ID_KELAS": "6C",
+    "NAMA_KELAS": "MASJID TUWA PATINBURAK ",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1322",
+    "NAMA": "Rania Audrey Qhanita",
+    "ID_KELAS": "6C",
+    "NAMA_KELAS": "MASJID TUWA PATINBURAK ",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1807",
+    "NAMA": "Rayyan Khalil Abbasy",
+    "ID_KELAS": "6C",
+    "NAMA_KELAS": "MASJID TUWA PATINBURAK ",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1326",
+    "NAMA": "Sekar Langit Makahiya",
+    "ID_KELAS": "6C",
+    "NAMA_KELAS": "MASJID TUWA PATINBURAK ",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1329",
+    "NAMA": "Victor Sakti Harits Wiyono",
+    "ID_KELAS": "6C",
+    "NAMA_KELAS": "MASJID TUWA PATINBURAK ",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1225",
+    "NAMA": "Ahmad Sulthan Azzam Tsaqib Al Ghazali",
+    "ID_KELAS": "6D",
+    "NAMA_KELAS": "MASJID AGUNG AL AQSA ",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1226",
+    "NAMA": "Aisyah Azzahra",
+    "ID_KELAS": "6D",
+    "NAMA_KELAS": "MASJID AGUNG AL AQSA ",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1229",
+    "NAMA": "Alvaro Khalfani",
+    "ID_KELAS": "6D",
+    "NAMA_KELAS": "MASJID AGUNG AL AQSA ",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1230",
+    "NAMA": "Alvaro Pasha Raissa Viantama",
+    "ID_KELAS": "6D",
+    "NAMA_KELAS": "MASJID AGUNG AL AQSA ",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1477",
+    "NAMA": "Alya Tamima",
+    "ID_KELAS": "6D",
+    "NAMA_KELAS": "MASJID AGUNG AL AQSA ",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1236",
+    "NAMA": "Arffano Thoriqul Haqq",
+    "ID_KELAS": "6D",
+    "NAMA_KELAS": "MASJID AGUNG AL AQSA ",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1239",
+    "NAMA": "Athar Tristan Junior",
+    "ID_KELAS": "6D",
+    "NAMA_KELAS": "MASJID AGUNG AL AQSA ",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1240",
+    "NAMA": "Atharryz Calief Rafardhan",
+    "ID_KELAS": "6D",
+    "NAMA_KELAS": "MASJID AGUNG AL AQSA ",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1478",
+    "NAMA": "Athaya Anindita Ramadhani Imansyah",
+    "ID_KELAS": "6D",
+    "NAMA_KELAS": "MASJID AGUNG AL AQSA ",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1244",
+    "NAMA": "Azahra Alya Wibisono",
+    "ID_KELAS": "6D",
+    "NAMA_KELAS": "MASJID AGUNG AL AQSA ",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1254",
+    "NAMA": "Dimas Alifandra Yusuf Haidar",
+    "ID_KELAS": "6D",
+    "NAMA_KELAS": "MASJID AGUNG AL AQSA ",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1600",
+    "NAMA": "Fadhlan Kurnia Al Fatih",
+    "ID_KELAS": "6D",
+    "NAMA_KELAS": "MASJID AGUNG AL AQSA ",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1257",
+    "NAMA": "Fathir Sulaiman Putra Bachtiar",
+    "ID_KELAS": "6D",
+    "NAMA_KELAS": "MASJID AGUNG AL AQSA ",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1265",
+    "NAMA": "Ibrahim Latif Wibowo",
+    "ID_KELAS": "6D",
+    "NAMA_KELAS": "MASJID AGUNG AL AQSA ",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1266",
+    "NAMA": "Joviola Thara Dinata",
+    "ID_KELAS": "6D",
+    "NAMA_KELAS": "MASJID AGUNG AL AQSA ",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1267",
+    "NAMA": "Karel Abraham",
+    "ID_KELAS": "6D",
+    "NAMA_KELAS": "MASJID AGUNG AL AQSA ",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1268",
+    "NAMA": "Kaylin Queenza Az Zahra",
+    "ID_KELAS": "6D",
+    "NAMA_KELAS": "MASJID AGUNG AL AQSA ",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1270",
+    "NAMA": "Keisha Afiqah Azzahra",
+    "ID_KELAS": "6D",
+    "NAMA_KELAS": "MASJID AGUNG AL AQSA ",
+    "ID_HOMEBASE": "Merah"
+  },
+  {
+    "NIS": "1271",
+    "NAMA": "Kenzie Baldwin Pudjianto",
+    "ID_KELAS": "6D",
+    "NAMA_KELAS": "MASJID AGUNG AL AQSA ",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1273",
+    "NAMA": "Khayla Zabrina Rachim",
+    "ID_KELAS": "6D",
+    "NAMA_KELAS": "MASJID AGUNG AL AQSA ",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1712",
+    "NAMA": "Kirana Syafiqa Bachri",
+    "ID_KELAS": "6D",
+    "NAMA_KELAS": "MASJID AGUNG AL AQSA ",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1286",
+    "NAMA": "Muhammad Danish Fakhruddin",
+    "ID_KELAS": "6D",
+    "NAMA_KELAS": "MASJID AGUNG AL AQSA ",
+    "ID_HOMEBASE": "Hijau"
+  },
+  {
+    "NIS": "1288",
+    "NAMA": "Muhammad Fahad Abdullah",
+    "ID_KELAS": "6D",
+    "NAMA_KELAS": "MASJID AGUNG AL AQSA ",
+    "ID_HOMEBASE": "Kuning"
+  },
+  {
+    "NIS": "1297",
+    "NAMA": "Muhammad Rofiul Ulum",
+    "ID_KELAS": "6D",
+    "NAMA_KELAS": "MASJID AGUNG AL AQSA ",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1300",
+    "NAMA": "Nabilla Arifah Azzahroh",
+    "ID_KELAS": "6D",
+    "NAMA_KELAS": "MASJID AGUNG AL AQSA ",
+    "ID_HOMEBASE": "Ungu"
+  },
+  {
+    "NIS": "1312",
+    "NAMA": "Nayla Anindya Mustika",
+    "ID_KELAS": "6D",
+    "NAMA_KELAS": "MASJID AGUNG AL AQSA ",
+    "ID_HOMEBASE": "Biru"
+  },
+  {
+    "NIS": "1319",
+    "NAMA": "Raeesa Nur Hidayatillah",
+    "ID_KELAS": "6D",
+    "NAMA_KELAS": "MASJID AGUNG AL AQSA ",
+    "ID_HOMEBASE": "Merah"
+  }
+]
