@@ -7,10 +7,15 @@
     <title>PRESTASI HOMEBASE</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    <style>
+        .bg-indigo {
+            background-color: #6610f2;
+        }
+    </style>
 </head>
 
 <body>
-    <div class="modal fade modal-dialog modal-dialog-centered modal-dialog-scrollable" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+    <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header">
@@ -55,14 +60,14 @@
 
                 $.getJSON('tbl_datahome.json', function(data) {
                     $.each(data, function(key, value) {
-                        if (value.NIS.search(expression) != -1 || value.ID_KELAS.search(expression) != -1 || value.NAMA.search(expression) != -1 || value.ID_HOMEBASE.search(expression) != -1 || value.NAMA_KELAS.search(expression) != -1) {
+                        if (value.NIS.search(expression) != -1 || value.KELAS.search(expression) != -1 || value.NAMA.search(expression) != -1 || value.HOMEBASE.search(expression) != -1 || value.NAMA_KELAS.search(expression) != -1) {
                             $('#resultlist').append(`
-                        <li class="list-group-item d-flex justify-content-between align-items-start list-group-item-action list-group-item-primary">
+                        <li class="list-group-item d-flex justify-content-between align-items-start list-group-item-action ">
                             <div class="ms-2 me-auto">
                             <div class="fw-bold">` + value.NAMA + `</div>
-                            <small>` + value.ID_KELAS + `</small>
+                            <small>` + value.KELAS + `-` + value.NAMA_KELAS + `</small>
                             </div>
-                            <span class="badge bg-info-subtle border border-info-subtle text-info-emphasis rounded-pill">` + value.ID_HOMEBASE + `-` + value.NAMA_KELAS + `</span>
+                            <span class="badge bg-` + value.THEME_COLOR + `">` + value.HOMEBASE + `</span>
                             <span class="nama" hidden>` + value.NIS + `</span>
                         </li>
                         `);
