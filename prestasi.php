@@ -31,6 +31,20 @@
                             <ol class="list-group list-group-numbered" id="resultlist"></ol>
                             <small><i>Silahkan ketik Nama Lengkap / Nama Panggilan / Kelas</i></small>
                         </div>
+                        <div class="modal-body p-3">
+                            <div class="input-group">
+                                <select class="form-select" aria-label="Default select example" id="lomba">
+                                    <option value="" selected>Open this select menu</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="modal-body p-3 pt-0">
+                            <div class="input-group">
+                                <select class="form-select" aria-label="Default select example" id="juara">
+                                    <option value="" selected>Open this select menu</option>
+                                </select>
+                            </div>
+                        </div>
                     </form>
                 </div>
                 <div class="modal-footer">
@@ -104,6 +118,17 @@
                 })
             })
         });
+    </script>
+    <script>
+        $(document).ready(function() {
+            $("#lomba").load("get_data.php?type=lomba")
+        });
+        $("#lomba").on("change", function(){
+            var lomba = $(this).val();
+            if (lomba) {
+                $("juara")
+            }
+        })
     </script>
 </body>
 
