@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Oct 23, 2023 at 08:15 AM
+-- Generation Time: Oct 23, 2023 at 02:53 PM
 -- Server version: 10.4.27-MariaDB
 -- PHP Version: 8.2.0
 
@@ -123,6 +123,38 @@ INSERT INTO `tbl_poinlomba` (`id_lomba`, `status`, `poin`) VALUES
 -- --------------------------------------------------------
 
 --
+-- Table structure for table `tbl_pointambahan`
+--
+
+CREATE TABLE `tbl_pointambahan` (
+  `id_tambahan` int(11) NOT NULL,
+  `poin` int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
+
+--
+-- Dumping data for table `tbl_pointambahan`
+--
+
+INSERT INTO `tbl_pointambahan` (`id_tambahan`, `poin`) VALUES
+(31, 6),
+(31, 5),
+(31, 4),
+(31, 3),
+(31, 2),
+(31, 1),
+(32, 6),
+(32, 5),
+(32, 4),
+(32, 3),
+(32, 2),
+(32, 1),
+(33, 3),
+(33, 2),
+(33, 1);
+
+-- --------------------------------------------------------
+
+--
 -- Table structure for table `tbl_poinupacara`
 --
 
@@ -192,7 +224,29 @@ CREATE TABLE `tbl_prestasi` (
 
 INSERT INTO `tbl_prestasi` (`timescan`, `nis`, `status`, `poin`) VALUES
 ('2023-10-23 12:11:48', '1659', '3', '7'),
-('2023-10-23 12:12:20', '1895', '6', '10');
+('2023-10-23 12:12:20', '1895', '6', '10'),
+('2023-10-23 13:21:00', '1806', '11', '2'),
+('2023-10-23 15:26:26', '', '', '');
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `tbl_tambahan`
+--
+
+CREATE TABLE `tbl_tambahan` (
+  `id_tambahan` int(11) NOT NULL,
+  `nama_tambahan` varchar(255) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
+
+--
+-- Dumping data for table `tbl_tambahan`
+--
+
+INSERT INTO `tbl_tambahan` (`id_tambahan`, `nama_tambahan`) VALUES
+(31, 'Piket kelas '),
+(32, 'Piket SCCB'),
+(33, 'perilaku inisiatif');
 
 -- --------------------------------------------------------
 
@@ -230,6 +284,12 @@ INSERT INTO `tbl_upacara` (`id_tugas`, `tugas`) VALUES
 --
 ALTER TABLE `tbl_lomba`
   ADD PRIMARY KEY (`id_lomba`);
+
+--
+-- Indexes for table `tbl_tambahan`
+--
+ALTER TABLE `tbl_tambahan`
+  ADD PRIMARY KEY (`id_tambahan`);
 
 --
 -- Indexes for table `tbl_upacara`
