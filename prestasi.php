@@ -40,7 +40,7 @@
                     </div>
                 </form>
                 <div id="formLomba" style="display: none;">
-                    <form action="" method="post">
+                    <form action="insertlomba.php" method="post">
                         <div class="modal-body p-3">
                             <div class="input-group">
                                 <select class="form-select" aria-label="Default select example" id="lomba" name="lomba">
@@ -55,7 +55,9 @@
                                 </select>
                             </div>
                         </div>
-                        <input type="submit" value="Simpan" class="btn btn-primary"></input>
+                        <div class="modal-footer">
+                            <input type="submit" value="Simpan" class="btn btn-primary"></input>
+                        </div>
                     </form>
                 </div>
                 <div id="formUpacara" style="display: none;">
@@ -74,7 +76,30 @@
                                 </select>
                             </div>
                         </div>
-                        <input type="submit" value="Simpan" class="btn btn-primary"></input>
+                        <div class="modal-footer">
+                            <input type="submit" value="Simpan" class="btn btn-primary"></input>
+                        </div>
+                    </form>
+                </div>
+                <div id="formSikap" style="display: none;">
+                    <form action="" method="post">
+                        <div class="modal-body p-3">
+                            <div class="input-group">
+                                <select class="form-select" aria-label="Default select example" id="tugas" name="tugas">
+                                    <option value=""></option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="modal-body p-3 pt-0">
+                            <div class="input-group">
+                                <select class="form-select" aria-label="Default select example" id="poinupacara" name="poinupacara">
+                                    <option value=""></option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <input type="submit" value="Simpan" class="btn btn-primary"></input>
+                        </div>
                     </form>
                 </div>
             </div>
@@ -149,16 +174,57 @@
                     }
                 });
             });
+
+            $.ajax({
+                type: 'POST',
+                url: "get_data_upacara.php",
+                cache: false,
+                success: function(msg) {
+                    $("#tugas").html(msg);
+                }
+            });
+
+            $("#tugas").change(function() {
+                var tugas = $("#tugas").val();
+                $.ajax({
+                    type: 'POST',
+                    url: "get_data_poinupacara.php",
+                    data: {
+                        tugas: tugas
+                    },
+                    cache: false,
+                    success: function(msg) {
+                        $("#poinupacara").html(msg);
+                    }
+                });
+            });
         });
     </script>
     <script>
-        // function myFunction() {
-        //     var r1 = document.getElementById("radio1");
-        //     var text1 = document.getElementById("formLomba");
-        //     if (r1.checked == true) {
-        //         formLomba.style.display = "block";
-        //     }
-        // }
+        function myFunction() {
+            var r1 = document.getElementById("radio1");
+            var text1 = document.getElementById("formLomba");
+            var r2 = document.getElementById("radio2");
+            var text2 = document.getElementById("formUpacara");
+            var r3 = document.getElementById("radio3");
+            var text3 = document.getElementById("formSikap");
+
+            if (r1.checked == true) {
+                formLomba.style.display = "block";
+            } else {
+                formLomba.style.display = "none";
+            }
+            if (r2.checked == true) {
+                formUpacara.style.display = "block";
+            } else {
+                formUpacara.style.display = "none";
+            }
+            if (r3.checked == true) {
+                formSikap.style.display = "block";
+            } else {
+                formSikap.style.display = "none";
+            }
+        }
     </script>
 </body>
 
