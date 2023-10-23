@@ -120,15 +120,29 @@
         });
     </script>
     <script>
-        $(document).ready(function() {
-            $("#lomba").load("get_data.php?type=lomba")
+        $(document).ready(function () {
+            $.ajax ({
+                type: 'POST',
+                url: "get_data_lomba.php",
+                cache: false,
+                success: function(msg){
+                    $("#lomba").html(msg);
+                }
+            });
+
+            $("#lomba").change(function(){
+                var lomba = $("#lomba").val();
+                $.ajax({
+                    type: 'POST',
+                    url: "get_data_juara.php",
+                    data: {lomba: lomba},
+                    cache: false,
+                    success: function(msg){
+                        $("#juara").html(msg);
+                    }
+                });
+            });
         });
-        $("#lomba").on("change", function(){
-            var lomba = $(this).val();
-            if (lomba) {
-                $("juara")
-            }
-        })
     </script>
 </body>
 
