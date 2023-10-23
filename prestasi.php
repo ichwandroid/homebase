@@ -33,15 +33,15 @@
                         </div>
                         <div class="modal-body p-3">
                             <div class="input-group">
-                                <select class="form-select" aria-label="Default select example" id="lomba">
-                                    <option value="" selected>Open this select menu</option>
+                                <select class="form-select" aria-label="Default select example" id="lomba" name="lomba">
+                                    <option value=""></option>
                                 </select>
                             </div>
                         </div>
                         <div class="modal-body p-3 pt-0">
                             <div class="input-group">
                                 <select class="form-select" aria-label="Default select example" id="juara">
-                                    <option value="" selected>Open this select menu</option>
+                                    <option value=""></option>
                                 </select>
                             </div>
                         </div>
