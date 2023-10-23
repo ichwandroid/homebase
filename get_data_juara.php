@@ -10,6 +10,6 @@ $a->bind_param("i", $lomba);
 $a->execute();
 $hasil = $a->get_result();
 while ($row = $hasil->fetch_assoc()) {
-    echo "<option value='" . $row['point'] . "'>" . $row['status'] . "</option>";
+    echo "<option value='" . $row['poin'] . "'>" . $row['status'] . "</option>";
 }
 ?>

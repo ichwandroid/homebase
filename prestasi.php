@@ -21,8 +21,8 @@
                 <div class="modal-header">
                     <h1 class="modal-title fs-5" id="staticBackdropLabel">Achievement Record</h1>
                 </div>
-                <div class="modal-body">
-                    <form action="" name="formName" id="altForm" method="post" enctype="multipart/form-data">
+                <form action="insertlomba.php" name="formName" id="altForm" method="post" enctype="multipart/form-data">
+                    <div class="modal-body">
                         <div class="modal-body p-3">
                             <div class="input-group">
                                 <input type="text" id="nis" name="nis" placeholder="Search..." aria-label="First name" class="form-control" autocomplete="off">
@@ -40,17 +40,16 @@
                         </div>
                         <div class="modal-body p-3 pt-0">
                             <div class="input-group">
-                                <select class="form-select" aria-label="Default select example" id="juara">
+                                <select class="form-select" aria-label="Default select example" id="juara" name="juara">
                                     <option value=""></option>
                                 </select>
                             </div>
                         </div>
-                    </form>
-                </div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                    <button type="button" class="btn btn-primary">Understood</button>
-                </div>
+                    </div>
+                    <div class="modal-footer">
+                        <input type="submit" value="Simpan" class="btn btn-primary"></input>
+                    </div>
+                </form>
             </div>
         </div>
     </div>
@@ -96,48 +95,29 @@
                 $('#nis').val(nis);
                 $("#resultlist").html('');
             });
-
-            $("#altForm").submit(function(e) {
-                e.preventDefault();
-                $.ajax({
-                    type: "post",
-                    url: "includes/insert.php",
-                    data: $(this).serialize(),
-                }).done(function(data) {
-                    $("nis").val("");
-                    $("#status").val("");
-                    $("#basic-url").val("");
-                    let text = data + " Data berhasil disimpan, ingin melihat statusnya? ";
-                    if (confirm(text) == true) {
-                        window.location = "http://localhost/pickup.v3";
-                    } else {
-                        window.location.reload();
-                    }
-                    // alert(data);
-                    // window.location.reload();
-                })
-            })
         });
     </script>
     <script>
-        $(document).ready(function () {
-            $.ajax ({
+        $(document).ready(function() {
+            $.ajax({
                 type: 'POST',
                 url: "get_data_lomba.php",
                 cache: false,
-                success: function(msg){
+                success: function(msg) {
                     $("#lomba").html(msg);
                 }
             });
 
-            $("#lomba").change(function(){
+            $("#lomba").change(function() {
                 var lomba = $("#lomba").val();
                 $.ajax({
                     type: 'POST',
                     url: "get_data_juara.php",
-                    data: {lomba: lomba},
+                    data: {
+                        lomba: lomba
+                    },
                     cache: false,
-                    success: function(msg){
+                    success: function(msg) {
                         $("#juara").html(msg);
                     }
                 });
