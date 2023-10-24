@@ -26,7 +26,7 @@
                 <div class="card card-cover h-100 overflow-hidden text-bg-dark rounded-4 shadow-lg" style="background-image: url('https://i.dailymail.co.uk/i/newpix/2018/06/16/16/4D48C5DE00000578-5851583-Portugal_s_Ronaldo_scored_exquisite_late_free_kick_to_make_it_3_-a-33_1529162355323.jpg');background-position:center;">
                     <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
                         <h3 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Violation Records</h3>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <a href="pelanggaran.php" class="btn btn-primary">Go somewhere</a>
                     </div>
                 </div>
             </div>
