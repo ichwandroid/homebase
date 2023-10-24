@@ -71,7 +71,7 @@
                         </div>
                         <div class="modal-body p-3 pt-0">
                             <div class="input-group">
-                                <select class="form-select" aria-label="Default select example" id="poin" name="poin">
+                                <select class="form-select" aria-label="Default select example" id="poinupacara" name="poinupacara">
                                     <option value=""></option>
                                 </select>
                             </div>
