@@ -4,12 +4,12 @@ include 'connect.php';
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     date_default_timezone_set('Asia/Jakarta');
     $date = date("Y-m-d H:i:s");
-    $nis = $_POST['nis1'];
-    $lomba = $_POST['lomba'];
-    $homebase = $_POST['homebase1'];
-    $juara = $_POST['juara'];
+    $nis = $_POST['nis3'];
+    $tambahan = $_POST['tambahan'];
+    $homebase = $_POST['homebase3'];
+    $poin = $_POST['pointambahan'];
 
-    $sql = "INSERT INTO tbl_prestasi (timescan, nis, status, homebase, poin) VALUES ('$date','$nis','$lomba','$homebase','$juara')";
+    $sql = "INSERT INTO tbl_prestasi (timescan, nis, status, homebase, poin) VALUES ('$date','$nis','$tambahan','$homebase','$poin')";
 
     if ($db->query($sql) === TRUE) {
         echo "<script>alert('Berhasil menambahkan data!');

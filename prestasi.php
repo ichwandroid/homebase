@@ -43,6 +43,15 @@
                     <form action="insertlomba.php" method="post">
                         <div class="modal-body p-3">
                             <div class="input-group">
+                                <input type="text" id="nis1" name="nis1" placeholder="Search..." aria-label="First name" class="form-control" autocomplete="off">
+                                <span class="input-group-text"><i class="bi bi-person-vcard"></i></span>
+                            </div>
+                            <ol class="list-group list-group-numbered" id="resultlist1"></ol>
+                            <small><i>Silahkan ketik Nama Lengkap / Nama Panggilan / Kelas / Homebase</i></small>
+                            <input type="text" id="homebase1" name="homebase1" aria-label="First name" class="form-control" hidden>
+                        </div>
+                        <div class="modal-body p-3">
+                            <div class="input-group">
                                 <select class="form-select" aria-label="Default select example" id="lomba" name="lomba">
                                     <option value=""></option>
                                 </select>
@@ -61,7 +70,16 @@
                     </form>
                 </div>
                 <div id="formUpacara" style="display: none;">
-                    <form action="" method="post">
+                    <form action="insertupacara.php" method="post">
+                        <div class="modal-body p-3">
+                            <div class="input-group">
+                                <input type="text" id="nis2" name="nis2" placeholder="Search..." aria-label="First name" class="form-control" autocomplete="off">
+                                <span class="input-group-text"><i class="bi bi-person-vcard"></i></span>
+                            </div>
+                            <ol class="list-group list-group-numbered" id="resultlist2"></ol>
+                            <small><i>Silahkan ketik Nama Lengkap / Nama Panggilan / Kelas / Homebase</i></small>
+                            <input type="text" id="homebase2" name="homebase2" aria-label="First name" class="form-control" hidden>
+                        </div>
                         <div class="modal-body p-3">
                             <div class="input-group">
                                 <select class="form-select" aria-label="Default select example" id="tugas" name="tugas">
@@ -82,17 +100,26 @@
                     </form>
                 </div>
                 <div id="formSikap" style="display: none;">
-                    <form action="" method="post">
+                    <form action="inserttambahan.php" method="post">
                         <div class="modal-body p-3">
                             <div class="input-group">
-                                <select class="form-select" aria-label="Default select example" id="tugas" name="tugas">
+                                <input type="text" id="nis3" name="nis3" placeholder="Search..." aria-label="First name" class="form-control" autocomplete="off">
+                                <span class="input-group-text"><i class="bi bi-person-vcard"></i></span>
+                            </div>
+                            <ol class="list-group list-group-numbered" id="resultlist3"></ol>
+                            <small><i>Silahkan ketik Nama Lengkap / Nama Panggilan / Kelas / Homebase</i></small>
+                            <input type="text" id="homebase3" name="homebase3" aria-label="First name" class="form-control" hidden>
+                        </div>
+                        <div class="modal-body p-3">
+                            <div class="input-group">
+                                <select class="form-select" aria-label="Default select example" id="tambahan" name="tambahan">
                                     <option value=""></option>
                                 </select>
                             </div>
                         </div>
                         <div class="modal-body p-3 pt-0">
                             <div class="input-group">
-                                <select class="form-select" aria-label="Default select example" id="poinupacara" name="poinupacara">
+                                <select class="form-select" aria-label="Default select example" id="pointambahan" name="pointambahan">
                                     <option value=""></option>
                                 </select>
                             </div>
@@ -117,23 +144,23 @@
             $.ajaxSetup({
                 cache: false
             });
-            $('#nis').keyup(function() {
-                $('#resultlist').html('');
-                $('#state').val('');
-                var searchField = $('#nis').val();
+            $('#nis1').keyup(function() {
+                $('#resultlist1').html('');
+                var searchField = $('#nis1').val();
                 var expression = new RegExp(searchField, "i");
 
                 $.getJSON('tbl_datahome.json', function(data) {
                     $.each(data, function(key, value) {
                         if (value.NIS.search(expression) != -1 || value.KELAS.search(expression) != -1 || value.NAMA.search(expression) != -1 || value.HOMEBASE.search(expression) != -1 || value.NAMA_KELAS.search(expression) != -1) {
-                            $('#resultlist').append(`
+                            $('#resultlist1').append(`
                         <li class="list-group-item d-flex justify-content-between align-items-start list-group-item-action ">
                             <div class="ms-2 me-auto">
                             <div class="fw-bold">` + value.NAMA + `</div>
                             <small>` + value.KELAS + `-` + value.NAMA_KELAS + `</small>
                             </div>
                             <span class="badge bg-` + value.THEME_COLOR + `">` + value.HOMEBASE + `</span>
-                            <span class="nama" hidden>` + value.NIS + `</span>
+                            <span class="nis" hidden>` + value.NIS + `</span>
+                            <span class="homebase" hidden>` + value.HOMEBASE + `</span>
                         </li>
                         `);
                         }
@@ -141,11 +168,83 @@
                 });
             });
 
-            $('#resultlist').on('click', 'li', function() {
-                let nis = $(this).children('.nama').text();
+            $('#resultlist1').on('click', 'li', function() {
+                let nis = $(this).children('.nis').text();
+                let homebase = $(this).children('.homebase').text();
 
-                $('#nis').val(nis);
-                $("#resultlist").html('');
+                $('#nis1').val(nis);
+                $('#homebase1').val(homebase);
+                $("#resultlist1").html('');
+            });
+
+            // ============================================== //
+
+            $('#nis2').keyup(function() {
+                $('#resultlist2').html('');
+                var searchField = $('#nis2').val();
+                var expression = new RegExp(searchField, "i");
+
+                $.getJSON('tbl_datahome.json', function(data) {
+                    $.each(data, function(key, value) {
+                        if (value.NIS.search(expression) != -1 || value.KELAS.search(expression) != -1 || value.NAMA.search(expression) != -1 || value.HOMEBASE.search(expression) != -1 || value.NAMA_KELAS.search(expression) != -1) {
+                            $('#resultlist2').append(`
+                        <li class="list-group-item d-flex justify-content-between align-items-start list-group-item-action ">
+                            <div class="ms-2 me-auto">
+                            <div class="fw-bold">` + value.NAMA + `</div>
+                            <small>` + value.KELAS + `-` + value.NAMA_KELAS + `</small>
+                            </div>
+                            <span class="badge bg-` + value.THEME_COLOR + `">` + value.HOMEBASE + `</span>
+                            <span class="nis" hidden>` + value.NIS + `</span>
+                            <span class="homebase" hidden>` + value.HOMEBASE + `</span>
+                        </li>
+                        `);
+                        }
+                    });
+                });
+            });
+
+            $('#resultlist2').on('click', 'li', function() {
+                let nis = $(this).children('.nis').text();
+                let homebase = $(this).children('.homebase').text();
+
+                $('#nis2').val(nis);
+                $('#homebase2').val(homebase);
+                $("#resultlist2").html('');
+            });
+
+            // =============================================== //
+
+            $('#nis3').keyup(function() {
+                $('#resultlist3').html('');
+                var searchField = $('#nis3').val();
+                var expression = new RegExp(searchField, "i");
+
+                $.getJSON('tbl_datahome.json', function(data) {
+                    $.each(data, function(key, value) {
+                        if (value.NIS.search(expression) != -1 || value.KELAS.search(expression) != -1 || value.NAMA.search(expression) != -1 || value.HOMEBASE.search(expression) != -1 || value.NAMA_KELAS.search(expression) != -1) {
+                            $('#resultlist3').append(`
+                        <li class="list-group-item d-flex justify-content-between align-items-start list-group-item-action ">
+                            <div class="ms-2 me-auto">
+                            <div class="fw-bold">` + value.NAMA + `</div>
+                            <small>` + value.KELAS + `-` + value.NAMA_KELAS + `</small>
+                            </div>
+                            <span class="badge bg-` + value.THEME_COLOR + `">` + value.HOMEBASE + `</span>
+                            <span class="nis" hidden>` + value.NIS + `</span>
+                            <span class="homebase" hidden>` + value.HOMEBASE + `</span>
+                        </li>
+                        `);
+                        }
+                    });
+                });
+            });
+
+            $('#resultlist3').on('click', 'li', function() {
+                let nis = $(this).children('.nis').text();
+                let homebase = $(this).children('.homebase').text();
+
+                $('#nis3').val(nis);
+                $('#homebase3').val(homebase);
+                $("#resultlist3").html('');
             });
         });
     </script>
@@ -195,6 +294,30 @@
                     cache: false,
                     success: function(msg) {
                         $("#poinupacara").html(msg);
+                    }
+                });
+            });
+
+            $.ajax({
+                type: 'POST',
+                url: "get_data_tambahan.php",
+                cache: false,
+                success: function(msg) {
+                    $("#tambahan").html(msg);
+                }
+            });
+
+            $("#tambahan").change(function() {
+                var tambahan = $("#tambahan").val();
+                $.ajax({
+                    type: 'POST',
+                    url: "get_data_pointambahan.php",
+                    data: {
+                        tambahan: tambahan
+                    },
+                    cache: false,
+                    success: function(msg) {
+                        $("#pointambahan").html(msg);
                     }
                 });
             });
