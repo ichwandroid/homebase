@@ -29,6 +29,16 @@
                     <ol class="list-group list-group-numbered" id="resultlist"></ol>
                     <small><i>Silahkan ketik Nama Lengkap / Nama Panggilan / Kelas / Homebase</i></small>
                 </div>
+                <div class="modal-body p-3">
+                    <div class="input-group">
+                        <select class="form-select" aria-label="Default select example" id="pelanggaran" name="pelanggaran"></select>
+                    </div>
+                </div>
+                <div class="modal-body p-3 pt-0">
+                    <div class="input-group">
+                        <select class="form-select" aria-label="Default select example" id="poin" name="poin"></select>
+                    </div>
+                </div>
                 <div class="modal-footer">
                     <input type="submit" value="Simpan" class="btn btn-primary"></input>
                 </div>
@@ -56,7 +66,7 @@
             $.getJSON('tbl_datahome.json', function(data) {
                 $.each(data, function(key, value) {
                     if (value.NIS.search(expression) != -1 || value.KELAS.search(expression) != -1 || value.NAMA.search(expression) != -1 || value.HOMEBASE.search(expression) != -1 || value.NAMA_KELAS.search(expression) != -1) {
-                        $('#resultlis').append(`
+                        $('#resultlist').append(`
                         <li class="list-group-item d-flex justify-content-between align-items-start list-group-item-action ">
                             <div class="ms-2 me-auto">
                             <div class="fw-bold">` + value.NAMA + `</div>
@@ -77,6 +87,31 @@
             $('#nis').val(nis);
             $("#resultlist").html('');
         });
+    });
+</script>
+<script>
+    $(document).ready(function() {
+        $.getJSON('pelanggaran.json', function(data) {
+            var jenisData = data.jenis;
+
+            $("#pelanggaran").append('<option value=""> Pilih Jenis Pelanggaran</option>');
+            $.each(jenisData, function(key, value) {
+                $("#pelanggaran").append('<option value="' + value.id + '">' + value.nama + '</option>');
+            });
+        });
+
+        $("#pelanggaran").change(function() {
+            var id_pelanggaran = $(this).val();
+
+            $.getJSON('pelanggaran.json', function(data) {
+                var dataPoin = data.poin[id_pelanggaran];
+                $("#poin").empty();
+                $("#poin").append('<option value="">Pilih Poin</option>');
+                $.each(dataPoin, function(key, value) {
+                    $("#poin").append('<option value="' + value.id + '">' + value.nama + '</option>');
+                });
+            })
+        })
     });
 </script>
 

@@ -1,0 +1,42 @@
+{
+    "jenis": [
+        {"id": 1, "nama": "Terlambat"},
+        {"id": 2, "nama": "Berkelahi"},
+        {"id": 3, "nama": "Berkata Kotor / Kasar / Mesoh"},
+        {"id": 4, "nama": "Terlambat Sholat (Tanpa Ijin)"},
+        {"id": 5, "nama": "Tidak tertib Ketika Ibadah di Masjid"},
+        {"id": 6, "nama": "Menentang Petugas Piket"},
+        {"id": 7, "nama": "Merusak Barang"},
+        {"id": 8, "nama": "Masuk Barisan Khusus"},
+        {"id": 9, "nama": "Berbohong"},
+        {"id": 10, "nama": "Pornografi / Pornoaksi"},
+        {"id": 11, "nama": "Mencuri / Ghasab (Pinjam Tanpa Ijin)"},
+        {"id": 12, "nama": "Melanggar Aturan Sekolah"},
+        {"id": 13, "nama": "Perbuatan tidak Menyenangkan"},
+        {"id": 14, "nama": "Bullying"}
+    ],
+    "poin": {
+        "1":[
+            {"id": "p7", "nama": "7"},
+            {"id": "p6", "nama": "6"},
+            {"id": "p5", "nama": "5"},
+            {"id": "p4", "nama": "4"},
+            {"id": "p3", "nama": "3"},
+            {"id": "p2", "nama": "2"},
+            {"id": "p1", "nama": "1"}
+        ],
+        "2":[],
+        "3":[],
+        "4":[],
+        "5":[],
+        "6":[],
+        "7":[],
+        "8":[],
+        "9":[],
+        "10":[],
+        "11":[],
+        "12":[],
+        "13":[],
+        "14":[]
+    }
+}
