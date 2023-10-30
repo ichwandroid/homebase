@@ -1,6 +1,54 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="en">
+
 <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>PELANGGARAN HOMEBASE</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    <style>
+        .bg-indigo {
+            background-color: #6610f2;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5" id="staticBackdropLabel">Violation Records</h1>
+                </div>
+                <div class="modal-body">
+                    <div class="input-group">
+                        <input type="text" id="nis3" name="nis3" placeholder="Search..." aria-label="First name" class="form-control" autocomplete="off">
+                        <span class="input-group-text"><i class="bi bi-person-vcard"></i></span>
+                    </div>
+                    <ol class="list-group list-group-numbered" id="resultlist3"></ol>
+                    <small><i>Silahkan ketik Nama Lengkap / Nama Panggilan / Kelas / Homebase</i></small>
+                    <input type="text" id="homebase3" name="homebase3" aria-label="First name" class="form-control" hidden>
+                </div>
+                <div class="modal-footer">
+                    <input type="submit" value="Simpan" class="btn btn-primary"></input>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script type="text/javascript">
+        $(window).on('load', function() {
+            $('#staticBackdrop').modal('show');
+        });
+    </script>
+</body>
+
+</html>
+<!-- <!DOCTYPE html>
+<html>
+    <head>
     <title>Contoh Combobox Bertingkat</title>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script>
@@ -44,4 +92,4 @@
         </select>
     </form>
 </body>
-</html>
+</html> -->
