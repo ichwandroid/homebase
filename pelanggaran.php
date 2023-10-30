@@ -19,9 +19,16 @@
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h1 class="modal-title fs-5" id="staticBackdropLabel">Achievement Record</h1>
+                    <h1 class="modal-title fs-5" id="staticBackdropLabel">Violation Records</h1>
                 </div>
-                <div class="modal-body"></div>
+                <div class="modal-body p-3">
+                    <div class="input-group">
+                        <input type="text" id="nis" name="nis" placeholder="Search..." aria-label="First name" class="form-control" autocomplete="off">
+                        <span class="input-group-text"><i class="bi bi-person-vcard"></i></span>
+                    </div>
+                    <ol class="list-group list-group-numbered" id="resultlist"></ol>
+                    <small><i>Silahkan ketik Nama Lengkap / Nama Panggilan / Kelas / Homebase</i></small>
+                </div>
                 <div class="modal-footer">
                     <input type="submit" value="Simpan" class="btn btn-primary"></input>
                 </div>
@@ -34,6 +41,42 @@
 <script type="text/javascript">
     $(window).on('load', function() {
         $('#staticBackdrop').modal('show');
+    });
+</script>
+<script>
+    $(document).ready(function() {
+        $.ajaxSetup({
+            cache: false
+        });
+        $('#nis').keyup(function() {
+            $('#resultlist').html('');
+            var searchField = $('#nis').val();
+            var expression = new RegExp(searchField, "i");
+
+            $.getJSON('tbl_datahome.json', function(data) {
+                $.each(data, function(key, value) {
+                    if (value.NIS.search(expression) != -1 || value.KELAS.search(expression) != -1 || value.NAMA.search(expression) != -1 || value.HOMEBASE.search(expression) != -1 || value.NAMA_KELAS.search(expression) != -1) {
+                        $('#resultlis').append(`
+                        <li class="list-group-item d-flex justify-content-between align-items-start list-group-item-action ">
+                            <div class="ms-2 me-auto">
+                            <div class="fw-bold">` + value.NAMA + `</div>
+                            <small>` + value.KELAS + `-` + value.NAMA_KELAS + `</small>
+                            </div>
+                            <span class="badge bg-` + value.THEME_COLOR + `">` + value.HOMEBASE + `</span>
+                            <span class="nis" hidden>` + value.NIS + `</span>
+                        </li>
+                        `);
+                    }
+                });
+            });
+        });
+
+        $('#resultlist').on('click', 'li', function() {
+            let nis = $(this).children('.nis').text();
+
+            $('#nis').val(nis);
+            $("#resultlist").html('');
+        });
     });
 </script>
 
