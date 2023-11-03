@@ -21,27 +21,30 @@
                 <div class="modal-header">
                     <h1 class="modal-title fs-5" id="staticBackdropLabel">Violation Records</h1>
                 </div>
-                <div class="modal-body p-3">
-                    <div class="input-group">
-                        <input type="text" id="nis" name="nis" placeholder="Search..." aria-label="First name" class="form-control" autocomplete="off">
-                        <span class="input-group-text"><i class="bi bi-person-vcard"></i></span>
+                <form action="insertpelanggaran.php" method="post">
+                    <div class="modal-body p-3">
+                        <div class="input-group">
+                            <input type="text" id="nis" name="nis" placeholder="Search..." aria-label="First name" class="form-control" autocomplete="off">
+                            <span class="input-group-text"><i class="bi bi-person-vcard"></i></span>
+                        </div>
+                        <ol class="list-group list-group-numbered" id="resultlist"></ol>
+                        <small><i>Silahkan ketik Nama Lengkap / Nama Panggilan / Kelas / Homebase</i></small>
+                        <input type="text" id="homebase" name="homebase" aria-label="First name" class="form-control" hidden>
                     </div>
-                    <ol class="list-group list-group-numbered" id="resultlist"></ol>
-                    <small><i>Silahkan ketik Nama Lengkap / Nama Panggilan / Kelas / Homebase</i></small>
-                </div>
-                <div class="modal-body p-3">
-                    <div class="input-group">
-                        <select class="form-select" aria-label="Default select example" id="pelanggaran" name="pelanggaran"></select>
+                    <div class="modal-body p-3">
+                        <div class="input-group">
+                            <select class="form-select" aria-label="Default select example" id="pelanggaran" name="pelanggaran"></select>
+                        </div>
                     </div>
-                </div>
-                <div class="modal-body p-3 pt-0">
-                    <div class="input-group">
-                        <select class="form-select" aria-label="Default select example" id="poin" name="poin"></select>
+                    <div class="modal-body p-3 pt-0">
+                        <div class="input-group">
+                            <select class="form-select" aria-label="Default select example" id="poin" name="poin"></select>
+                        </div>
                     </div>
-                </div>
-                <div class="modal-footer">
-                    <input type="submit" value="Simpan" class="btn btn-primary"></input>
-                </div>
+                    <div class="modal-footer">
+                        <input type="submit" value="Simpan" class="btn btn-primary"></input>
+                    </div>
+                </form>
             </div>
         </div>
     </div>
@@ -74,6 +77,7 @@
                             </div>
                             <span class="badge bg-` + value.THEME_COLOR + `">` + value.HOMEBASE + `</span>
                             <span class="nis" hidden>` + value.NIS + `</span>
+                            <span class="homebase" hidden>` + value.HOMEBASE + `</span>
                         </li>
                         `);
                     }
@@ -83,8 +87,10 @@
 
         $('#resultlist').on('click', 'li', function() {
             let nis = $(this).children('.nis').text();
+            let homebase = $(this).children('.homebase').text();
 
             $('#nis').val(nis);
+            $('#homebase').val(homebase);
             $("#resultlist").html('');
         });
     });
@@ -116,52 +122,3 @@
 </script>
 
 </html>
-
-
-<!-- <!DOCTYPE html>
-<html>
-<head>
-    <title>Contoh Combobox Bertingkat</title>
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script>
-        $(document).ready(function(){
-            // Mengambil data provinsi dari berkas JSON
-            $.getJSON('data.json', function(data){
-                var provinsiData = data.provinsi;
-
-                $("#provinsi").append('<option value="">Pilih Provinsi</option>');
-                $.each(provinsiData, function(key, value){
-                    $("#provinsi").append('<option value="' + value.id + '">' + value.nama + '</option>');
-                });
-            });
-
-            // Event saat combobox provinsi berubah
-            $("#provinsi").change(function(){
-                var provinsi_id = $(this).val();
-
-                // Mengambil data kota berdasarkan provinsi_id dari berkas JSON
-                $.getJSON('data.json', function(data){
-                    var kotaData = data.kota[provinsi_id];
-                    $("#kota").empty();
-                    $("#kota").append('<option value="">Pilih Kota</option>');
-                    $.each(kotaData, function(key, value){
-                        $("#kota").append('<option value="' + value.id + '">' + value.nama + '</option>');
-                    });
-                });
-            });
-        });
-    </script>
-</head>
-<body>
-    <h1>Combobox Bertingkat</h1>
-    <form>
-        <label for="provinsi">Provinsi:</label>
-        <select id="provinsi" name="provinsi">
-        </select>
-        <br>
-        <label for="kota">Kota:</label>
-        <select id="kota" name="kota">
-        </select>
-    </form>
-</body>
-</html> -->

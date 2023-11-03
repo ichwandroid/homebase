@@ -35,7 +35,7 @@
                 <div class="card card-cover h-100 overflow-hidden text-bg-dark rounded-4 shadow-lg" style="background-image: url('https://media.istockphoto.com/id/1041618802/photo/hear-me-out-on-this-one.jpg?s=612x612&w=0&k=20&c=WlAjoWNJxKAg-pVD_S575XAvLlp-yPuHlXps2RU6xWI=');background-position:right">
                     <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
                         <h3 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Homebase Points</h3>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <a href="poinhomebase.php" class="btn btn-primary">Go somewhere</a>
                     </div>
                 </div>
             </div>
