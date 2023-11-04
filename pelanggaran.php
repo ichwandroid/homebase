@@ -114,7 +114,7 @@
                 $("#poin").empty();
                 $("#poin").append('<option value="">Pilih Poin</option>');
                 $.each(dataPoin, function(key, value) {
-                    $("#poin").append('<option value="' + value.id + '">' + value.nama + '</option>');
+                    $("#poin").append('<option value="' + value.nama + '">' + value.nama + '</option>');
                 });
             })
         })

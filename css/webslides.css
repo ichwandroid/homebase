@@ -3172,6 +3172,10 @@ Slides - Backgrounds <section class="bg-primary">
 .bg-red {
   background-color: #c23; }
 
+.bg-yellow {
+  background-color: #ffc107;
+}
+
 .bg-white {
   background-color: #fff; }
 
