@@ -59,7 +59,6 @@
                         <div class="modal-body p-3 pt-0">
                             <div class="input-group">
                                 <select class="form-select" aria-label="Default select example" id="juara" name="juara">
-                                    <option value=""></option>
                                 </select>
                             </div>
                         </div>
@@ -82,14 +81,12 @@
                         <div class="modal-body p-3">
                             <div class="input-group">
                                 <select class="form-select" aria-label="Default select example" id="tugas" name="tugas">
-                                    <option value=""></option>
                                 </select>
                             </div>
                         </div>
                         <div class="modal-body p-3 pt-0">
                             <div class="input-group">
                                 <select class="form-select" aria-label="Default select example" id="poinupacara" name="poinupacara">
-                                    <option value=""></option>
                                 </select>
                             </div>
                         </div>
@@ -112,14 +109,12 @@
                         <div class="modal-body p-3">
                             <div class="input-group">
                                 <select class="form-select" aria-label="Default select example" id="tambahan" name="tambahan">
-                                    <option value=""></option>
                                 </select>
                             </div>
                         </div>
                         <div class="modal-body p-3 pt-0">
                             <div class="input-group">
                                 <select class="form-select" aria-label="Default select example" id="pointambahan" name="pointambahan">
-                                    <option value=""></option>
                                 </select>
                             </div>
                         </div>
@@ -148,7 +143,7 @@
                 var searchField = $('#nis1').val();
                 var expression = new RegExp(searchField, "i");
 
-                $.getJSON('tbl_datahome.json', function(data) {
+                $.getJSON('js/tbl_datahome.json', function(data) {
                     $.each(data, function(key, value) {
                         if (value.NIS.search(expression) != -1 || value.KELAS.search(expression) != -1 || value.NAMA.search(expression) != -1 || value.HOMEBASE.search(expression) != -1 || value.NAMA_KELAS.search(expression) != -1) {
                             $('#resultlist1').append(`
@@ -183,7 +178,7 @@
                 var searchField = $('#nis2').val();
                 var expression = new RegExp(searchField, "i");
 
-                $.getJSON('tbl_datahome.json', function(data) {
+                $.getJSON('js/tbl_datahome.json', function(data) {
                     $.each(data, function(key, value) {
                         if (value.NIS.search(expression) != -1 || value.KELAS.search(expression) != -1 || value.NAMA.search(expression) != -1 || value.HOMEBASE.search(expression) != -1 || value.NAMA_KELAS.search(expression) != -1) {
                             $('#resultlist2').append(`
@@ -218,7 +213,7 @@
                 var searchField = $('#nis3').val();
                 var expression = new RegExp(searchField, "i");
 
-                $.getJSON('tbl_datahome.json', function(data) {
+                $.getJSON('js/tbl_datahome.json', function(data) {
                     $.each(data, function(key, value) {
                         if (value.NIS.search(expression) != -1 || value.KELAS.search(expression) != -1 || value.NAMA.search(expression) != -1 || value.HOMEBASE.search(expression) != -1 || value.NAMA_KELAS.search(expression) != -1) {
                             $('#resultlist3').append(`
@@ -249,7 +244,7 @@
     </script>
     <script>
         $(document).ready(function() {
-            $.getJSON('lomba.json', function(data) {
+            $.getJSON('js/prestasi.json', function(data) {
                 var jenisLomba = data.jenis;
 
                 $("#lomba").append('<option value=""> Pilih Tingkatan Lomba</option>');
@@ -261,7 +256,7 @@
             $("#lomba").change(function() {
                 var id_lomba = $(this).val();
 
-                $.getJSON('lomba.json', function(data) {
+                $.getJSON('js/prestasi.json', function(data) {
                     var dataJuara = data.juara[id_lomba];
                     $("#juara").empty();
                     $("#juara").append('<option value="">Pilih Juara</option>');
@@ -271,51 +266,51 @@
                 });
             });
 
-            $.ajax({
-                type: 'POST',
-                url: "get_data_upacara.php",
-                cache: false,
-                success: function(msg) {
-                    $("#tugas").html(msg);
-                }
-            });
+            // ================================================================================================= //
 
-            $("#tugas").change(function() {
-                var tugas = $("#tugas").val();
-                $.ajax({
-                    type: 'POST',
-                    url: "get_data_poinupacara.php",
-                    data: {
-                        tugas: tugas
-                    },
-                    cache: false,
-                    success: function(msg) {
-                        $("#poinupacara").html(msg);
-                    }
+            $.getJSON('js/prestasi.json', function(data) {
+                var jenisTugas = data.tugas;
+
+                $("#tugas").append('<option value=""> Pilih Tugas</option>');
+                $.each(jenisTugas, function(key, value) {
+                    $("#tugas").append('<option value="' + value.id + '">' + value.nama + '</option>');
                 });
             });
 
-            $.ajax({
-                type: 'POST',
-                url: "get_data_tambahan.php",
-                cache: false,
-                success: function(msg) {
-                    $("#tambahan").html(msg);
-                }
+            $("#tugas").change(function() {
+                var id_tugas = $(this).val();
+
+                $.getJSON('js/prestasi.json', function(data) {
+                    var dataPoin = data.poinupacara[id_tugas];
+                    $("#poinupacara").empty();
+                    $("#poinupacara").append('<option value="">Pilih Poin</option>');
+                    $.each(dataPoin, function(key, value) {
+                        $("#poinupacara").append('<option value="' + value.nama + '">' + value.nama + '</option>');
+                    });
+                });
+            });
+
+            // ================================================================================================= //
+            
+            $.getJSON('js/prestasi.json', function(data) {
+                var jenisTambahan = data.tambahan;
+
+                $("#tambahan").append('<option value=""> Pilih Tugas</option>');
+                $.each(jenisTambahan, function(key, value) {
+                    $("#tambahan").append('<option value="' + value.id + '">' + value.nama + '</option>');
+                });
             });
 
             $("#tambahan").change(function() {
-                var tambahan = $("#tambahan").val();
-                $.ajax({
-                    type: 'POST',
-                    url: "get_data_pointambahan.php",
-                    data: {
-                        tambahan: tambahan
-                    },
-                    cache: false,
-                    success: function(msg) {
-                        $("#pointambahan").html(msg);
-                    }
+                var id_tambahan = $(this).val();
+
+                $.getJSON('js/prestasi.json', function(data) {
+                    var dataPoin = data.pointambahan[id_tambahan];
+                    $("#pointambahan").empty();
+                    $("#pointambahan").append('<option value="">Pilih Poin</option>');
+                    $.each(dataPoin, function(key, value) {
+                        $("#pointambahan").append('<option value="' + value.nama + '">' + value.nama + '</option>');
+                    });
                 });
             });
         });

@@ -1,5 +1,5 @@
 <?php
-include 'connect.php'
+include '../connect.php'
 ?>
 <!doctype html>
 <html lang="en">

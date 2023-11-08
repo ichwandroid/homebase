@@ -66,7 +66,7 @@
             var searchField = $('#nis').val();
             var expression = new RegExp(searchField, "i");
 
-            $.getJSON('tbl_datahome.json', function(data) {
+            $.getJSON('js/tbl_datahome.json', function(data) {
                 $.each(data, function(key, value) {
                     if (value.NIS.search(expression) != -1 || value.KELAS.search(expression) != -1 || value.NAMA.search(expression) != -1 || value.HOMEBASE.search(expression) != -1 || value.NAMA_KELAS.search(expression) != -1) {
                         $('#resultlist').append(`
@@ -97,7 +97,7 @@
 </script>
 <script>
     $(document).ready(function() {
-        $.getJSON('pelanggaran.json', function(data) {
+        $.getJSON('js/pelanggaran.json', function(data) {
             var jenisData = data.jenis;
 
             $("#pelanggaran").append('<option value=""> Pilih Jenis Pelanggaran</option>');
@@ -109,7 +109,7 @@
         $("#pelanggaran").change(function() {
             var id_pelanggaran = $(this).val();
 
-            $.getJSON('pelanggaran.json', function(data) {
+            $.getJSON('js/pelanggaran.json', function(data) {
                 var dataPoin = data.poin[id_pelanggaran];
                 $("#poin").empty();
                 $("#poin").append('<option value="">Pilih Poin</option>');
