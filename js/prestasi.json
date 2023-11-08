@@ -1,0 +1,86 @@
+{
+    "jenis": [
+        {"id": 1, "nama": "Sekolah"},
+        {"id": 2, "nama": "Gugus"},
+        {"id": 3, "nama": "Kecamatan"},
+        {"id": 4, "nama": "Kota"},
+        {"id": 5, "nama": "Provinsi"},
+        {"id": 6, "nama": "Nasional"},
+        {"id": 7, "nama": "Internasional"},
+        {"id": 8, "nama": "Umum"}
+    ],
+    "juara": {
+        "1": [
+            {"id": 11, "nama": "Juara 1", "poin": "7"},
+            {"id": 12, "nama": "Juara 2", "poin": "6"},
+            {"id": 13, "nama": "Juara 3", "poin": "5"},
+            {"id": 14, "nama": "Juara 4", "poin": "4"},
+            {"id": 15, "nama": "Juara 5", "poin": "3"},
+            {"id": 16, "nama": "Juara 6", "poin": "2"},
+            {"id": 17, "nama": "Peserta", "poin": "1"}
+        ],
+        "2": [
+            {"id": 11, "nama": "Juara 1", "poin": "8"},
+            {"id": 12, "nama": "Juara 2", "poin": "7"},
+            {"id": 13, "nama": "Juara 3", "poin": "6"},
+            {"id": 14, "nama": "Juara 4", "poin": "5"},
+            {"id": 15, "nama": "Juara 5", "poin": "4"},
+            {"id": 16, "nama": "Juara 6", "poin": "3"},
+            {"id": 17, "nama": "Peserta", "poin": "2"}
+        ],
+        "3": [
+            {"id": 11, "nama": "Juara 1", "poin": "9"},
+            {"id": 12, "nama": "Juara 2", "poin": "8"},
+            {"id": 13, "nama": "Juara 3", "poin": "7"},
+            {"id": 14, "nama": "Juara 4", "poin": "6"},
+            {"id": 15, "nama": "Juara 5", "poin": "5"},
+            {"id": 16, "nama": "Juara 6", "poin": "4"},
+            {"id": 17, "nama": "Peserta", "poin": "3"}
+        ],
+        "4": [
+            {"id": 11, "nama": "Juara 1", "poin": "10"},
+            {"id": 12, "nama": "Juara 2", "poin": "9"},
+            {"id": 13, "nama": "Juara 3", "poin": "8"},
+            {"id": 14, "nama": "Juara 4", "poin": "7"},
+            {"id": 15, "nama": "Juara 5", "poin": "6"},
+            {"id": 16, "nama": "Juara 6", "poin": "5"},
+            {"id": 17, "nama": "Peserta", "poin": "4"}
+        ],
+        "5": [
+            {"id": 11, "nama": "Juara 1", "poin": "11"},
+            {"id": 12, "nama": "Juara 2", "poin": "10"},
+            {"id": 13, "nama": "Juara 3", "poin": "9"},
+            {"id": 14, "nama": "Juara 4", "poin": "8"},
+            {"id": 15, "nama": "Juara 5", "poin": "7"},
+            {"id": 16, "nama": "Juara 6", "poin": "6"},
+            {"id": 17, "nama": "Peserta", "poin": "5"}
+        ],
+        "6": [
+            {"id": 11, "nama": "Juara 1", "poin": "12"},
+            {"id": 12, "nama": "Juara 2", "poin": "11"},
+            {"id": 13, "nama": "Juara 3", "poin": "10"},
+            {"id": 14, "nama": "Juara 4", "poin": "9"},
+            {"id": 15, "nama": "Juara 5", "poin": "8"},
+            {"id": 16, "nama": "Juara 6", "poin": "7"},
+            {"id": 17, "nama": "Peserta", "poin": "6"}
+        ],
+        "7": [
+            {"id": 11, "nama": "Juara 1", "poin": "13"},
+            {"id": 12, "nama": "Juara 2", "poin": "12"},
+            {"id": 13, "nama": "Juara 3", "poin": "11"},
+            {"id": 14, "nama": "Juara 4", "poin": "10"},
+            {"id": 15, "nama": "Juara 5", "poin": "9"},
+            {"id": 16, "nama": "Juara 6", "poin": "8"},
+            {"id": 17, "nama": "Peserta", "poin": "7"}
+        ],
+        "8": [
+            {"id": 11, "nama": "Juara 1", "poin": "7"},
+            {"id": 12, "nama": "Juara 2", "poin": "6"},
+            {"id": 13, "nama": "Juara 3", "poin": "5"},
+            {"id": 14, "nama": "Juara 4", "poin": "4"},
+            {"id": 15, "nama": "Juara 5", "poin": "3"},
+            {"id": 16, "nama": "Juara 6", "poin": "2"},
+            {"id": 17, "nama": "Peserta", "poin": "1"}
+        ]
+    }
+}

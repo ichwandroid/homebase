@@ -53,7 +53,6 @@
                         <div class="modal-body p-3">
                             <div class="input-group">
                                 <select class="form-select" aria-label="Default select example" id="lomba" name="lomba">
-                                    <option value=""></option>
                                 </select>
                             </div>
                         </div>
@@ -250,27 +249,25 @@
     </script>
     <script>
         $(document).ready(function() {
-            $.ajax({
-                type: 'POST',
-                url: "get_data_lomba.php",
-                cache: false,
-                success: function(msg) {
-                    $("#lomba").html(msg);
-                }
+            $.getJSON('lomba.json', function(data) {
+                var jenisLomba = data.jenis;
+
+                $("#lomba").append('<option value=""> Pilih Tingkatan Lomba</option>');
+                $.each(jenisLomba, function(key, value) {
+                    $("#lomba").append('<option value="' + value.id + '">' + value.nama + '</option>');
+                });
             });
 
             $("#lomba").change(function() {
-                var lomba = $("#lomba").val();
-                $.ajax({
-                    type: 'POST',
-                    url: "get_data_juara.php",
-                    data: {
-                        lomba: lomba
-                    },
-                    cache: false,
-                    success: function(msg) {
-                        $("#juara").html(msg);
-                    }
+                var id_lomba = $(this).val();
+
+                $.getJSON('lomba.json', function(data) {
+                    var dataJuara = data.juara[id_lomba];
+                    $("#juara").empty();
+                    $("#juara").append('<option value="">Pilih Juara</option>');
+                    $.each(dataJuara, function(key, value) {
+                        $("#juara").append('<option value="' + value.poin + '">' + value.nama + '</option>');
+                    });
                 });
             });
 
