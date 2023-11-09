@@ -2,7 +2,7 @@
 
 <main class="flex-shrink-0">
     <div class="container">
-        <h1>Dashboard Prestasi</h1>
+        <h1>Dashboard Pelanggaran</h1>
 
         <table id="myTable" class="display">
             <thead>
@@ -17,7 +17,7 @@
                 </tr>
             </thead>
             <?php
-            $data = mysqli_query($db, "SELECT * FROM tbl_pelanggaran INNER JOIN tbl_siswa on tbl_prestasi.nis = tbl_siswa.nis INNER JOIN tbl_poin on tbl_prestasi.status = tbl_poin.id");
+            $data = mysqli_query($db, "SELECT * FROM tbl_pelanggaran INNER JOIN tbl_siswa on tbl_pelanggaran.nis = tbl_siswa.nis INNER JOIN tbl_poin on tbl_pelanggaran.status = tbl_poin.id");
             while ($a = mysqli_fetch_array($data)) {
             ?>
                 <tbody>
