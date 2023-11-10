@@ -27,29 +27,31 @@
                     <div class="grid vertical-align">
                         <div class="column">
                             <h2>Homebase Merah</h2>
-                            <p class="text-intro">We worked closely with the very talented people. Content demo. </p>
+                            <p class="text-intro">Update per-tanggal <?php echo date('d M Y'); ?></p>
                             <ul class="description">
                                 <li>
-                                    <span class="text-label">PRESTASI :</span>
-                                    <?php
-                                     $data = $db->query("SELECT * FROM tbl_prestasi WHERE homebase='merah'");
-                                     $totalprestasi = 0;
-                                     while ($a = $data->fetch_array()) {
-                                        $totalprestasi += $a["poin"];
-                                     }
-                                     echo $totalprestasi;
-                                    ?>
+                                    <h4 class="text-label">PRESTASI :
+                                        <?php
+                                        $data = $db->query("SELECT * FROM tbl_prestasi WHERE homebase='merah'");
+                                        $totalprestasi = 0;
+                                        while ($a = $data->fetch_array()) {
+                                            $totalprestasi += $a["poin"];
+                                        }
+                                        echo $totalprestasi;
+                                        ?>
+                                    </h4>
                                 </li>
                                 <li>
-                                    <span class="text-label">PELANGGARAN :</span>
-                                    <?php
-                                     $data = $db->query("SELECT * FROM tbl_pelanggaran WHERE homebase='merah'");
-                                     $totalpelanggaran = 0;
-                                     while ($a = $data->fetch_array()) {
-                                        $totalpelanggaran += $a["poin"];
-                                     }
-                                     echo $totalpelanggaran;
-                                    ?>
+                                    <h4 class="text-label">PELANGGARAN :
+                                        <?php
+                                        $data = $db->query("SELECT * FROM tbl_pelanggaran WHERE homebase='merah'");
+                                        $totalpelanggaran = 0;
+                                        while ($a = $data->fetch_array()) {
+                                            $totalpelanggaran += $a["poin"];
+                                        }
+                                        echo $totalpelanggaran;
+                                        ?>
+                                    </h4>
                                 </li>
                             </ul>
                         </div>
@@ -58,9 +60,9 @@
                             <h3>Poin Sementara</h3>
                             <h1 class="text-data">
                                 <?php
-                                 $poinawal = 500;
-                                 $totalpoin = $poinawal + $totalprestasi - $totalpelanggaran;
-                                 echo $totalpoin;
+                                $poinawal = 500;
+                                $totalpoin = $poinawal + $totalprestasi - $totalpelanggaran;
+                                echo $totalpoin;
                                 ?>
                             </h1>
                         </div>
@@ -74,29 +76,31 @@
                     <div class="grid vertical-align">
                         <div class="column">
                             <h2>Homebase Kuning</h2>
-                            <p class="text-intro">We worked closely with the very talented people. Content demo. </p>
+                            <p class="text-intro">Update per-tanggal <?php echo date('d M Y'); ?></p>
                             <ul class="description">
                                 <li>
-                                    <span class="text-label">PRESTASI :</span>
-                                    <?php
-                                     $data = $db->query("SELECT * FROM tbl_prestasi WHERE homebase='kuning'");
-                                     $totalprestasi = 0;
-                                     while ($a = $data->fetch_array()) {
-                                        $totalprestasi += $a["poin"];
-                                     }
-                                     echo $totalprestasi;
-                                    ?>
+                                    <h4 class="text-label">PRESTASI :
+                                        <?php
+                                        $data = $db->query("SELECT * FROM tbl_prestasi WHERE homebase='kuning'");
+                                        $totalprestasi = 0;
+                                        while ($a = $data->fetch_array()) {
+                                            $totalprestasi += $a["poin"];
+                                        }
+                                        echo $totalprestasi;
+                                        ?>
+                                    </h4>
                                 </li>
                                 <li>
-                                    <span class="text-label">PELANGGARAN :</span>
-                                    <?php
-                                     $data = $db->query("SELECT * FROM tbl_pelanggaran WHERE homebase='kuning'");
-                                     $totalpelanggaran = 0;
-                                     while ($a = $data->fetch_array()) {
-                                        $totalpelanggaran += $a["poin"];
-                                     }
-                                     echo $totalpelanggaran;
-                                    ?>
+                                    <h4 class="text-label">PELANGGARAN :
+                                        <?php
+                                        $data = $db->query("SELECT * FROM tbl_pelanggaran WHERE homebase='kuning'");
+                                        $totalpelanggaran = 0;
+                                        while ($a = $data->fetch_array()) {
+                                            $totalpelanggaran += $a["poin"];
+                                        }
+                                        echo $totalpelanggaran;
+                                        ?>
+                                    </h4>
                                 </li>
                             </ul>
                         </div>
@@ -105,9 +109,9 @@
                             <h3>Poin Sementara</h3>
                             <h1 class="text-data">
                                 <?php
-                                 $poinawal = 500;
-                                 $totalpoin = $poinawal + $totalprestasi - $totalpelanggaran;
-                                 echo $totalpoin;
+                                $poinawal = 500;
+                                $totalpoin = $poinawal + $totalprestasi - $totalpelanggaran;
+                                echo $totalpoin;
                                 ?>
                             </h1>
                         </div>
@@ -121,29 +125,31 @@
                     <div class="grid vertical-align">
                         <div class="column">
                             <h2>Homebase Hijau</h2>
-                            <p class="text-intro">We worked closely with the very talented people. Content demo. </p>
+                            <p class="text-intro">Update per-tanggal <?php echo date('d M Y'); ?></p>
                             <ul class="description">
                                 <li>
-                                    <span class="text-label">PRESTASI :</span>
-                                    <?php
-                                     $data = $db->query("SELECT * FROM tbl_prestasi WHERE homebase='hijau'");
-                                     $totalprestasi = 0;
-                                     while ($a = $data->fetch_array()) {
-                                        $totalprestasi += $a["poin"];
-                                     }
-                                     echo $totalprestasi;
-                                    ?>
+                                    <h4 class="text-label">PRESTASI :
+                                        <?php
+                                        $data = $db->query("SELECT * FROM tbl_prestasi WHERE homebase='hijau'");
+                                        $totalprestasi = 0;
+                                        while ($a = $data->fetch_array()) {
+                                            $totalprestasi += $a["poin"];
+                                        }
+                                        echo $totalprestasi;
+                                        ?>
+                                    </h4>
                                 </li>
                                 <li>
-                                    <span class="text-label">PELANGGARAN :</span>
-                                    <?php
-                                     $data = $db->query("SELECT * FROM tbl_pelanggaran WHERE homebase='hijau'");
-                                     $totalpelanggaran = 0;
-                                     while ($a = $data->fetch_array()) {
-                                        $totalpelanggaran += $a["poin"];
-                                     }
-                                     echo $totalpelanggaran;
-                                    ?>
+                                    <h4 class="text-label">PELANGGARAN :
+                                        <?php
+                                        $data = $db->query("SELECT * FROM tbl_pelanggaran WHERE homebase='hijau'");
+                                        $totalpelanggaran = 0;
+                                        while ($a = $data->fetch_array()) {
+                                            $totalpelanggaran += $a["poin"];
+                                        }
+                                        echo $totalpelanggaran;
+                                        ?>
+                                    </h4>
                                 </li>
                             </ul>
                         </div>
@@ -152,9 +158,9 @@
                             <h3>Poin Sementara</h3>
                             <h1 class="text-data">
                                 <?php
-                                 $poinawal = 500;
-                                 $totalpoin = $poinawal + $totalprestasi - $totalpelanggaran;
-                                 echo $totalpoin;
+                                $poinawal = 500;
+                                $totalpoin = $poinawal + $totalprestasi - $totalpelanggaran;
+                                echo $totalpoin;
                                 ?>
                             </h1>
                         </div>
@@ -168,29 +174,31 @@
                     <div class="grid vertical-align">
                         <div class="column">
                             <h2>Homebase Biru</h2>
-                            <p class="text-intro">We worked closely with the very talented people. Content demo. </p>
+                            <p class="text-intro">Update per-tanggal <?php echo date('d M Y'); ?></p>
                             <ul class="description">
                                 <li>
-                                    <span class="text-label">PRESTASI :</span>
-                                    <?php
-                                     $data = $db->query("SELECT * FROM tbl_prestasi WHERE homebase='biru'");
-                                     $totalprestasi = 0;
-                                     while ($a = $data->fetch_array()) {
-                                        $totalprestasi += $a["poin"];
-                                     }
-                                     echo $totalprestasi;
-                                    ?>
+                                    <h4 class="text-label">PRESTASI :
+                                        <?php
+                                        $data = $db->query("SELECT * FROM tbl_prestasi WHERE homebase='biru'");
+                                        $totalprestasi = 0;
+                                        while ($a = $data->fetch_array()) {
+                                            $totalprestasi += $a["poin"];
+                                        }
+                                        echo $totalprestasi;
+                                        ?>
+                                    </h4>
                                 </li>
                                 <li>
-                                    <span class="text-label">PELANGGARAN :</span>
-                                    <?php
-                                     $data = $db->query("SELECT * FROM tbl_pelanggaran WHERE homebase='biru'");
-                                     $totalpelanggaran = 0;
-                                     while ($a = $data->fetch_array()) {
-                                        $totalpelanggaran += $a["poin"];
-                                     }
-                                     echo $totalpelanggaran;
-                                    ?>
+                                    <h4 class="text-label">PELANGGARAN :
+                                        <?php
+                                        $data = $db->query("SELECT * FROM tbl_pelanggaran WHERE homebase='biru'");
+                                        $totalpelanggaran = 0;
+                                        while ($a = $data->fetch_array()) {
+                                            $totalpelanggaran += $a["poin"];
+                                        }
+                                        echo $totalpelanggaran;
+                                        ?>
+                                    </h4>
                                 </li>
                             </ul>
                         </div>
@@ -199,9 +207,9 @@
                             <h3>Poin Sementara</h3>
                             <h1 class="text-data">
                                 <?php
-                                 $poinawal = 500;
-                                 $totalpoin = $poinawal + $totalprestasi - $totalpelanggaran;
-                                 echo $totalpoin;
+                                $poinawal = 500;
+                                $totalpoin = $poinawal + $totalprestasi - $totalpelanggaran;
+                                echo $totalpoin;
                                 ?>
                             </h1>
                         </div>
@@ -215,29 +223,31 @@
                     <div class="grid vertical-align">
                         <div class="column">
                             <h2>Homebase Ungu</h2>
-                            <p class="text-intro">We worked closely with the very talented people. Content demo. </p>
+                            <p class="text-intro">Update per-tanggal <?php echo date('d M Y'); ?></p>
                             <ul class="description">
                                 <li>
-                                    <span class="text-label">PRESTASI :</span>
-                                    <?php
-                                     $data = $db->query("SELECT * FROM tbl_prestasi WHERE homebase='ungu'");
-                                     $totalprestasi = 0;
-                                     while ($a = $data->fetch_array()) {
-                                        $totalprestasi += $a["poin"];
-                                     }
-                                     echo $totalprestasi;
-                                    ?>
+                                    <h4 class="text-label">PRESTASI :
+                                        <?php
+                                        $data = $db->query("SELECT * FROM tbl_prestasi WHERE homebase='ungu'");
+                                        $totalprestasi = 0;
+                                        while ($a = $data->fetch_array()) {
+                                            $totalprestasi += $a["poin"];
+                                        }
+                                        echo $totalprestasi;
+                                        ?>
+                                    </h4>
                                 </li>
                                 <li>
-                                    <span class="text-label">PELANGGARAN :</span>
-                                    <?php
-                                     $data = $db->query("SELECT * FROM tbl_pelanggaran WHERE homebase='ungu'");
-                                     $totalpelanggaran = 0;
-                                     while ($a = $data->fetch_array()) {
-                                        $totalpelanggaran += $a["poin"];
-                                     }
-                                     echo $totalpelanggaran;
-                                    ?>
+                                    <h4 class="text-label">PELANGGARAN :
+                                        <?php
+                                        $data = $db->query("SELECT * FROM tbl_pelanggaran WHERE homebase='ungu'");
+                                        $totalpelanggaran = 0;
+                                        while ($a = $data->fetch_array()) {
+                                            $totalpelanggaran += $a["poin"];
+                                        }
+                                        echo $totalpelanggaran;
+                                        ?>
+                                    </h4>
                                 </li>
                             </ul>
                         </div>
@@ -246,9 +256,9 @@
                             <h3>Poin Sementara</h3>
                             <h1 class="text-data">
                                 <?php
-                                 $poinawal = 500;
-                                 $totalpoin = $poinawal + $totalprestasi - $totalpelanggaran;
-                                 echo $totalpoin;
+                                $poinawal = 500;
+                                $totalpoin = $poinawal + $totalprestasi - $totalpelanggaran;
+                                echo $totalpoin;
                                 ?>
                             </h1>
                         </div>
@@ -263,7 +273,7 @@
     <script src="js/webslides.js"></script>
 
     <script>
-        window.ws = new WebSlides({ autoslide: 8000 });
+        window.ws = new WebSlides({ autoslide: 5000 });
     </script>
 
     <script defer src="js/svg-icons.js"></script>
